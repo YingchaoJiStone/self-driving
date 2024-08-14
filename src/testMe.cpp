@@ -1,0 +1,4 @@
+
+bool returnTrue() {
+    return true;
+}

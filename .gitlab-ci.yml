@@ -1,0 +1,64 @@
+image: docker:latest
+
+variables:
+  DOCKER_HOST: tcp://docker:2375
+  DOCKER_TLS_CERTDIR: ""
+
+services:
+  - name: docker:dind
+
+stages:
+  - build
+  - deploy
+
+before_script:
+  - docker info
+  - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD $CI_REGISTRY
+
+# src from https://stackoverflow.com/a/70206389
+workflow:
+  rules:
+    - if: '$CI_PIPELINE_SOURCE == "merge_request_event"'
+    - if: "$CI_COMMIT_BRANCH && $CI_OPEN_MERGE_REQUESTS"
+      when: never
+    - if: "$CI_COMMIT_BRANCH || $CI_COMMIT_TAG"
+
+# --------------------------- JOBS --------------------------- #
+
+build-and-test:
+  tags:
+    - docker-build
+  stage: build
+  script:
+    - docker build -f Dockerfile -t toolchain:1.0 .
+
+    # Copies the build directory from the container to the host
+    - docker create --name temp_container toolchain:1.0
+    - docker cp temp_container:/build .
+    - docker rm temp_container
+
+    - cd scripts
+    - ./steerTest.sh
+  rules:
+    # Never run on tag commits
+    - if: $CI_COMMIT_TAG
+      when: never
+
+    # Always run otherwise
+    - when: always
+  artifacts:
+    paths:
+      - build
+
+release:
+  tags:
+    - docker-build
+  stage: deploy
+  script:
+    - export DOCKER_CLI_EXPERIMENTAL=enabled
+    - docker buildx create --name mybuilder
+    - docker buildx use mybuilder
+    - docker buildx build --provenance=false --platform "linux/amd64,linux/arm/v7" --build-arg=DEV_SETUP=false -t "$CI_REGISTRY_IMAGE":"$CI_COMMIT_TAG" --push .
+  rules:
+    - if: "$CI_COMMIT_TAG" # Only run on tag commits
+    - if: '$CI_COMMIT_TAG =~ /^v\d+\.\d+\.\d+$/' # Only run on semantic tags

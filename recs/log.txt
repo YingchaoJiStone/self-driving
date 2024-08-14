@@ -1,0 +1,3930 @@
+File opened successfully.
+File opened successfully.
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.0232967
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00483516
+Number of cones: 0
+blueOnLeft: 1
+ Ground Steering Request: -0.0430769
+Number of cones: 3
+i: 0 height: 51.9289 x: 537 y: 319 ratio: 0.351884
+i: 1 height: 27.4239 x: 341 y: 291 ratio: 0.266095
+i: 0 height: 31.4338 x: 0 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0572135
+Received right sensor voltage: 0.0149451
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00747253
+Number of cones: 0
+blueOnLeft: 1
+ Ground Steering Request: -0.104615
+Number of cones: 3
+i: 0 height: 55.4933 x: 559 y: 323 ratio: 0.364782
+i: 1 height: 30.5427 x: 339 y: 295 ratio: 0.277869
+i: 2 height: 19.8496 x: 229 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.217268
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Number of cones: 0
+blueOnLeft: 1
+ Ground Steering Request: -0.04
+Number of cones: 3
+i: 0 height: 62.1765 x: 583 y: 333 ratio: 0.397732
+i: 1 height: 32.3249 x: 336 y: 297 ratio: 0.283816
+i: 2 height: 20.7407 x: 221 y: 284 ratio: 0.245879
+blueOnLeft: 0
+ Ground Steering Request: 0.211975
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 29.6516 x: 437 y: 306 ratio: 0.311074
+i: 0 height: 27.8694 x: 111 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.0579233
+File opened successfully.
+Number of cones: 3
+i: 0 height: 68.8597 x: 611 y: 335 ratio: 0.404442
+i: 1 height: 34.9982 x: 336 y: 300 ratio: 0.292812
+i: 2 height: 22.5229 x: 216 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.208895
+Number of cones: 2
+i: 0 height: 35.4437 x: 133 y: 305 ratio: 0.308005
+i: 0 height: 32.3249 x: 489 y: 306 ratio: 0.311074
+blueOnLeft: 1
+ Ground Steering Request: -1.28028e-05
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.151209
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 30.9883 x: 451 y: 301 ratio: 0.29583
+i: 0 height: 30.5427 x: 83 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.05871
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 38.117 x: 347 y: 302 ratio: 0.298859
+i: 1 height: 23.8595 x: 222 y: 290 ratio: 0.263177
+i: 2 height: 18.513 x: 142 y: 282 ratio: 0.240193
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+File opened successfully.
+Number of cones: 2
+i: 0 height: 38.117 x: 123 y: 310 ratio: 0.32345
+i: 0 height: 34.1071 x: 503 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.0107122
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.209231
+Received right sensor voltage: 0.0430769
+Number of cones: 2
+i: 0 height: 37.6715 x: 467 y: 303 ratio: 0.301898
+i: 0 height: 36.3348 x: 40 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.0591744
+Received left sensor voltage: 0.0145055
+Received left sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 40.7903 x: 358 y: 303 ratio: 0.301898
+i: 1 height: 24.3051 x: 229 y: 291 ratio: 0.266095
+i: 2 height: 19.4041 x: 147 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 41.2358 x: 113 y: 313 ratio: 0.332838
+i: 0 height: 37.2259 x: 515 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: 0.123536
+Number of cones: 2
+i: 0 height: 38.5625 x: 203 y: 309 ratio: 0.320341
+i: 0 height: 33.6615 x: 607 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.126119
+Received right sensor voltage: 0.0158242
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 7.35099
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0325275
+Number of cones: 2
+i: 0 height: 44.8002 x: 491 y: 307 ratio: 0.314153
+i: 0 height: 43.018 x: 0 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.0541145
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0545055
+Received right sensor voltage: 7.37033
+Received right sensor voltage: 0.0118681
+Number of cones: 2
+i: 0 height: 42.5725 x: 181 y: 313 ratio: 0.332838
+i: 0 height: 42.1269 x: 621 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: -0.112361
+Number of cones: 2
+i: 0 height: 43.018 x: 371 y: 304 ratio: 0.304946
+i: 1 height: 25.1962 x: 235 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.115099
+File opened successfully.
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 43.9091 x: 102 y: 321 ratio: 0.358313
+i: 0 height: 41.2358 x: 527 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: 0.209583
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00879121
+Received left sensor voltage: 0.100659
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 56.3844 x: 517 y: 321 ratio: 0.358313
+blueOnLeft: 0
+ Ground Steering Request: 0.0619558
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.185055
+Received right sensor voltage: 0.0171429
+Number of cones: 3
+i: 0 height: 47.0279 x: 387 y: 306 ratio: 0.311074
+i: 1 height: 26.5328 x: 242 y: 293 ratio: 0.271962
+i: 2 height: 20.2952 x: 157 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 1
+i: 0 height: 48.3646 x: 155 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.142716
+Number of cones: 2
+i: 0 height: 47.4735 x: 88 y: 321 ratio: 0.358313
+i: 0 height: 43.018 x: 537 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: 0.0442312
+Number of cones: 3
+i: 0 height: 59.9488 x: 463 y: 329 ratio: 0.384431
+i: 1 height: 33.6615 x: 271 y: 301 ratio: 0.29583
+i: 2 height: 24.7506 x: 177 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 67.9686 x: 555 y: 337 ratio: 0.411193
+i: 1 height: 28.315 x: 361 y: 295 ratio: 0.277869
+i: 0 height: 31.4338 x: 0 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0574837
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0426374
+Received left sensor voltage: 0.0637363
+Received right sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 67.9686 x: 514 y: 343 ratio: 0.431686
+i: 1 height: 36.7804 x: 285 y: 303 ratio: 0.301898
+i: 2 height: 26.0873 x: 187 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 44.8002 x: 409 y: 313 ratio: 0.332838
+i: 1 height: 28.315 x: 253 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.105405
+Number of cones: 1
+i: 0 height: 54.6022 x: 119 y: 330 ratio: 0.387741
+blueOnLeft: 1
+ Ground Steering Request: -0.0973584
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00483516
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 7.32198
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.090989
+Number of cones: 2
+i: 0 height: 51.0378 x: 71 y: 324 ratio: 0.368032
+i: 0 height: 46.5824 x: 553 y: 315 ratio: 0.339146
+blueOnLeft: 1
+ Ground Steering Request: 0.0326528
+Number of cones: 2
+i: 0 height: 75.9884 x: 605 y: 353 ratio: 0.466644
+i: 1 height: 31.4338 x: 363 y: 300 ratio: 0.292812
+blueOnLeft: 0
+ Ground Steering Request: 0.064734
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 7.41868
+Number of cones: 4
+i: 0 height: 78.6617 x: 566 y: 357 ratio: 0.480908
+i: 1 height: 40.3447 x: 299 y: 305 ratio: 0.308005
+i: 2 height: 27.8694 x: 197 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.218901
+Received right sensor voltage: 0.0197802
+Number of cones: 3
+i: 0 height: 51.0378 x: 453 y: 321 ratio: 0.358313
+i: 1 height: 31.4338 x: 268 y: 295 ratio: 0.277869
+i: 2 height: 22.5229 x: 178 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 67.0775 x: 68 y: 340 ratio: 0.421394
+i: 1 height: 30.5427 x: 207 y: 302 ratio: 0.298859
+blueOnLeft: 1
+ Ground Steering Request: -0.171071
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 55.0477 x: 49 y: 329 ratio: 0.384431
+i: 0 height: 50.1467 x: 573 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: 0.076666
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00483516
+Number of cones: 1
+i: 0 height: 34.5526 x: 371 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.117526
+Received left sensor voltage: 0.0175824
+Received right sensor voltage: 0.0131868
+Received left sensor voltage: 0.2
+Received right sensor voltage: 0.0210989
+Number of cones: 4
+i: 0 height: 44.8002 x: 313 y: 308 ratio: 0.317242
+i: 1 height: 29.6516 x: 206 y: 294 ratio: 0.27491
+i: 2 height: 22.9684 x: 107 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 64.4042 x: 519 y: 340 ratio: 0.421394
+i: 1 height: 35.8893 x: 291 y: 302 ratio: 0.298859
+blueOnLeft: 0
+ Ground Steering Request: 0.0871502
+Number of cones: 3
+i: 0 height: 73.3151 x: 0 y: 363 ratio: 0.502607
+i: 1 height: 34.9982 x: 183 y: 309 ratio: 0.320341
+i: 0 height: 32.3249 x: 535 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.181739
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.0131868
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 61.7309 x: 25 y: 339 ratio: 0.417983
+i: 0 height: 55.4933 x: 595 y: 327 ratio: 0.377842
+blueOnLeft: 1
+ Ground Steering Request: 0.171018
+Received left sensor voltage: 0.0426374
+Number of cones: 1
+i: 0 height: 36.3348 x: 393 y: 305 ratio: 0.308005
+blueOnLeft: 0
+ Ground Steering Request: 0.107957
+Received right sensor voltage: 0.0123077
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0237363
+Received left sensor voltage: 0.103297
+Number of cones: 4
+i: 0 height: 50.1467 x: 333 y: 311 ratio: 0.326569
+i: 1 height: 31.4338 x: 217 y: 299 ratio: 0.289803
+i: 2 height: 23.414 x: 116 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 41.2358 x: 331 y: 315 ratio: 0.339146
+i: 1 height: 27.4239 x: 225 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.122069
+Number of cones: 2
+i: 0 height: 39.8992 x: 151 y: 310 ratio: 0.32345
+i: 0 height: 32.7704 x: 539 y: 296 ratio: 0.280837
+blueOnLeft: 1
+ Ground Steering Request: -0.206675
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0127473
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 68.8597 x: 0 y: 345 ratio: 0.438597
+i: 0 height: 60.8398 x: 625 y: 335 ratio: 0.404442
+blueOnLeft: 1
+ Ground Steering Request: 0.113105
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 43.4636 x: 425 y: 307 ratio: 0.314153
+i: 1 height: 26.9784 x: 321 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.0935761
+Received right sensor voltage: 0.00483516
+Number of cones: 4
+i: 0 height: 51.0378 x: 352 y: 319 ratio: 0.351884
+i: 1 height: 34.5526 x: 227 y: 299 ratio: 0.289803
+i: 2 height: 25.1962 x: 124 y: 295 ratio: 0.277869
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.018022
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 47.0279 x: 425 y: 329 ratio: 0.384431
+blueOnLeft: 0
+ Ground Steering Request: 0.0895581
+Number of cones: 2
+i: 0 height: 44.3546 x: 118 y: 319 ratio: 0.351884
+i: 0 height: 39.4536 x: 541 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.154966
+Received right sensor voltage: 7.39934
+Received left sensor voltage: 0.0975824
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Number of cones: 0
+blueOnLeft: 1
+ Ground Steering Request: 0.0433134
+Received right sensor voltage: 0.00483516
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 49.2557 x: 466 y: 310 ratio: 0.32345
+i: 1 height: 28.7605 x: 353 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: 0.0820324
+Received right sensor voltage: 0.010989
+Number of cones: 4
+i: 0 height: 53.7111 x: 381 y: 327 ratio: 0.377842
+i: 1 height: 39.0081 x: 236 y: 302 ratio: 0.298859
+i: 2 height: 27.8694 x: 129 y: 298 ratio: 0.286804
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0118681
+Received left sensor voltage: 0.0171429
+Received right sensor voltage: 0.0254945
+Number of cones: 2
+i: 0 height: 68.8597 x: 581 y: 353 ratio: 0.466644
+i: 1 height: 36.3348 x: 383 y: 317 ratio: 0.345495
+blueOnLeft: 0
+ Ground Steering Request: 0.0642686
+Number of cones: 2
+i: 0 height: 51.0378 x: 82 y: 326 ratio: 0.374562
+i: 0 height: 43.018 x: 561 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.101306
+Received left sensor voltage: 0.0338462
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0171429
+Received right sensor voltage: 0.0149451
+Received right sensor voltage: 0.010989
+Number of cones: 1
+i: 0 height: 29.6516 x: 179 y: 300 ratio: 0.292812
+blueOnLeft: 1
+ Ground Steering Request: -0.198796
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 55.0477 x: 501 y: 317 ratio: 0.345495
+i: 1 height: 30.5427 x: 375 y: 295 ratio: 0.277869
+i: 0 height: 47.4735 x: 0 y: 323 ratio: 0.364782
+blueOnLeft: 0
+ Ground Steering Request: 0.0606058
+Received right sensor voltage: 0.0118681
+Number of cones: 4
+i: 0 height: 54.6022 x: 417 y: 341 ratio: 0.424814
+i: 1 height: 42.1269 x: 249 y: 306 ratio: 0.311074
+i: 2 height: 29.6516 x: 137 y: 298 ratio: 0.286804
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 1
+i: 0 height: 49.2557 x: 510 y: 329 ratio: 0.384431
+blueOnLeft: 0
+ Ground Steering Request: 0.0541503
+Number of cones: 3
+i: 0 height: 58.6121 x: 34 y: 329 ratio: 0.384431
+i: 1 height: 32.7704 x: 165 y: 303 ratio: 0.301898
+i: 0 height: 47.4735 x: 581 y: 333 ratio: 0.397732
+blueOnLeft: 1
+ Ground Steering Request: -0.105267
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00967033
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0114286
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 66.1864 x: 0 y: 383 ratio: 0.577546
+i: 1 height: 38.5625 x: 141 y: 307 ratio: 0.314153
+i: 0 height: 54.6022 x: 608 y: 337 ratio: 0.411193
+blueOnLeft: 1
+ Ground Steering Request: -0.101199
+Number of cones: 1
+i: 0 height: 31.4338 x: 171 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.0667334
+Received left sensor voltage: 0.0808791
+Received right sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 61.7309 x: 529 y: 318 ratio: 0.348685
+i: 1 height: 33.6615 x: 389 y: 298 ratio: 0.286804
+i: 0 height: 29.6516 x: 0 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.0998123
+Number of cones: 4
+i: 0 height: 59.0577 x: 467 y: 356 ratio: 0.477327
+i: 1 height: 46.5824 x: 263 y: 309 ratio: 0.320341
+i: 2 height: 32.3249 x: 145 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 34.9982 x: 437 y: 313 ratio: 0.332838
+i: 0 height: 37.6715 x: 17 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.0599978
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 7.36549
+Received left sensor voltage: 0.00703297
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Number of cones: 1
+i: 0 height: 33.216 x: 160 y: 308 ratio: 0.317242
+blueOnLeft: 1
+ Ground Steering Request: -0.0574986
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0197802
+Received left sensor voltage: 0.0123077
+Number of cones: 4
+i: 0 height: 84.8993 x: 533 y: 385 ratio: 0.585261
+Received left sensor voltage: 7.40418
+i: 1 height: 50.1467 x: 281 y: 314 ratio: 0.335987
+i: 2 height: 34.9982 x: 155 y: 301 ratio: 0.29583
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 63.5131 x: 549 y: 321 ratio: 0.358313
+i: 1 height: 35.4437 x: 394 y: 301 ratio: 0.29583
+i: 2 height: 22.0773 x: 265 y: 290 ratio: 0.263177
+blueOnLeft: 0
+ Ground Steering Request: 0.190204
+Number of cones: 1
+i: 0 height: 43.018 x: 111 y: 313 ratio: 0.332838
+blueOnLeft: 1
+ Ground Steering Request: -0.15449
+Received left sensor voltage: 0.0175824
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 47.0279 x: 524 y: 319 ratio: 0.351884
+i: 1 height: 31.4338 x: 361 y: 301 ratio: 0.29583
+i: 0 height: 46.5824 x: 15 y: 313 ratio: 0.332838
+blueOnLeft: 0
+ Ground Steering Request: 0.217782
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.010989
+Number of cones: 1
+i: 0 height: 34.9982 x: 148 y: 306 ratio: 0.311074
+blueOnLeft: 1
+ Ground Steering Request: -0.0631795
+Received right sensor voltage: 0.0167033
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 50.1467 x: 305 y: 321 ratio: 0.358313
+i: 1 height: 37.6715 x: 167 y: 297 ratio: 0.283816
+i: 2 height: 27.4239 x: 53 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0334066
+Number of cones: 3
+i: 0 height: 57.2755 x: 579 y: 327 ratio: 0.377842
+i: 1 height: 37.2259 x: 401 y: 299 ratio: 0.289803
+i: 2 height: 23.8595 x: 265 y: 290 ratio: 0.263177
+blueOnLeft: 0
+ Ground Steering Request: 0.173408
+Received left sensor voltage: 0.0118681
+Received left sensor voltage: 0.0830769
+Number of cones: 4
+i: 0 height: 56.8299 x: 631 y: 368 ratio: 0.520965
+i: 1 height: 38.117 x: 410 y: 304 ratio: 0.304946
+i: 2 height: 22.9684 x: 263 y: 291 ratio: 0.266095
+i: 0 height: 63.5131 x: 0 y: 325 ratio: 0.371292
+blueOnLeft: 0
+ Ground Steering Request: 0.103391
+Number of cones: 1
+i: 0 height: 47.4735 x: 75 y: 317 ratio: 0.345495
+blueOnLeft: 1
+ Ground Steering Request: -0.0399459
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 38.117 x: 139 y: 317 ratio: 0.345495
+i: 0 height: 30.5427 x: 531 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.052644
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0465934
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 53.2656 x: 339 y: 333 ratio: 0.397732
+i: 1 height: 35.8893 x: 185 y: 299 ratio: 0.289803
+i: 2 height: 28.7605 x: 67 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.225853
+Received left sensor voltage: 0.0158242
+Number of cones: 3
+i: 0 height: 64.8498 x: 613 y: 337 ratio: 0.411193
+i: 1 height: 40.7903 x: 410 y: 305 ratio: 0.308005
+i: 2 height: 24.3051 x: 267 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.191382
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.018022
+Received left sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 48.8101 x: 471 y: 350 ratio: 0.456051
+i: 1 height: 43.4636 x: 465 y: 316 ratio: 0.342316
+i: 2 height: 27.8694 x: 290 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.148164
+Number of cones: 2
+i: 0 height: 52.82 x: 31 y: 322 ratio: 0.361543
+i: 1 height: 31.4338 x: 191 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.159225
+Received left sensor voltage: 0.0452747
+Received right sensor voltage: 0.0153846
+Number of cones: 2
+i: 0 height: 42.5725 x: 125 y: 317 ratio: 0.345495
+i: 0 height: 39.4536 x: 553 y: 313 ratio: 0.332838
+blueOnLeft: 1
+ Ground Steering Request: -0.13417
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00835165
+Received left sensor voltage: 0.0720879
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 54.6022 x: 394 y: 350 ratio: 0.456051
+i: 1 height: 43.018 x: 209 y: 303 ratio: 0.301898
+i: 2 height: 30.5427 x: 86 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 7.40901
+Number of cones: 2
+i: 0 height: 44.3546 x: 420 y: 306 ratio: 0.311074
+i: 1 height: 25.6417 x: 267 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.191363
+Number of cones: 2
+i: 0 height: 55.4933 x: 533 y: 333 ratio: 0.397732
+i: 1 height: 32.7704 x: 318 y: 300 ratio: 0.292812
+blueOnLeft: 0
+ Ground Steering Request: 0.124838
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.0241758
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0123077
+Received left sensor voltage: 7.31231
+Number of cones: 1
+i: 0 height: 34.9982 x: 171 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.198016
+Received left sensor voltage: 0.0162637
+Received right sensor voltage: 0.0158242
+Number of cones: 2
+i: 0 height: 45.2457 x: 105 y: 317 ratio: 0.345495
+i: 0 height: 43.018 x: 581 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.138619
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.0430769
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00703297
+Received right sensor voltage: 0.0232967
+Number of cones: 2
+i: 0 height: 47.4735 x: 233 y: 307 ratio: 0.314153
+i: 1 height: 33.216 x: 105 y: 295 ratio: 0.277869
+blueOnLeft: 1
+ Ground Steering Request: -0.105669
+Received left sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 65.2953 x: 621 y: 345 ratio: 0.438597
+i: 1 height: 37.6715 x: 347 y: 303 ratio: 0.301898
+i: 0 height: 15.3942 x: 0 y: 273 ratio: 0.215105
+blueOnLeft: 0
+ Ground Steering Request: 0.130042
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 47.4735 x: 446 y: 309 ratio: 0.320341
+i: 1 height: 27.8694 x: 277 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.109892
+Received right sensor voltage: 0.0101099
+Number of cones: 2
+i: 0 height: 38.5625 x: 144 y: 309 ratio: 0.320341
+i: 0 height: 34.9982 x: 632 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.207345
+Number of cones: 2
+i: 0 height: 50.1467 x: 83 y: 319 ratio: 0.351884
+i: 0 height: 49.2557 x: 609 y: 325 ratio: 0.371292
+blueOnLeft: 1
+ Ground Steering Request: -0.0901606
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0131868
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0162637
+Number of cones: 2
+i: 0 height: 49.7012 x: 263 y: 317 ratio: 0.345495
+i: 1 height: 35.8893 x: 128 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.162575
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 39.0081 x: 379 y: 305 ratio: 0.308005
+i: 1 height: 20.7407 x: 223 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.2014
+Number of cones: 4
+i: 0 height: 47.0279 x: 471 y: 315 ratio: 0.339146
+i: 1 height: 29.6516 x: 287 y: 292 ratio: 0.269024
+i: 2 height: 22.5229 x: 188 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.0123077
+Received left sensor voltage: 0.0171429
+Received left sensor voltage: 0.156044
+Received right sensor voltage: 0.00747253
+Number of cones: 2
+i: 0 height: 44.8002 x: 109 y: 313 ratio: 0.332838
+i: 1 height: 27.4239 x: 257 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.126198
+Number of cones: 2
+i: 0 height: 59.0577 x: 53 y: 335 ratio: 0.404442
+i: 1 height: 29.6516 x: 198 y: 306 ratio: 0.311074
+blueOnLeft: 1
+ Ground Steering Request: -0.0712313
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.13011
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00483516
+Number of cones: 3
+i: 0 height: 54.6022 x: 307 y: 329 ratio: 0.384431
+i: 1 height: 40.3447 x: 161 y: 303 ratio: 0.301898
+i: 2 height: 24.7506 x: 45 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.224735
+Received left sensor voltage: 0.00791209
+Received right sensor voltage: 0.0206593
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0320879
+Number of cones: 4
+i: 0 height: 51.9289 x: 499 y: 322 ratio: 0.361543
+i: 1 height: 32.3249 x: 288 y: 295 ratio: 0.277869
+i: 2 height: 24.3051 x: 185 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 44.8002 x: 414 y: 310 ratio: 0.32345
+i: 1 height: 21.6318 x: 241 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.143457
+Received right sensor voltage: 0.00527472
+Number of cones: 1
+i: 0 height: 51.4834 x: 61 y: 325 ratio: 0.371292
+blueOnLeft: 1
+ Ground Steering Request: -0.144844
+Received left sensor voltage: 7.40418
+Number of cones: 2
+i: 0 height: 67.0775 x: 9 y: 345 ratio: 0.438597
+i: 1 height: 31.4338 x: 190 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.0521041
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0123077
+Received left sensor voltage: 0.0527473
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0742857
+Number of cones: 3
+Number of cones: 3
+i: 0 height: 52.82 x: 449 y: 314 ratio: 0.335987
+i: 1 height: 22.9684 x: 257 y: 287 ratio: 0.254483
+i: 0 height: 16.2852 x: 0 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: 0.223995
+i: 0 height: 54.6022 x: 377 y: 343 ratio: 0.431686
+i: 1 height: 46.5824 x: 195 y: 308 ratio: 0.317242
+i: 2 height: 24.3051 x: 77 y: 290 ratio: 0.263177
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.0105494
+Number of cones: 4
+i: 0 height: 59.0577 x: 521 y: 331 ratio: 0.391062
+i: 1 height: 34.9982 x: 285 y: 297 ratio: 0.283816
+i: 2 height: 25.6417 x: 176 y: 290 ratio: 0.263177
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.0123077
+Received left sensor voltage: 0.0747253
+Number of cones: 2
+i: 0 height: 61.7309 x: 0 y: 337 ratio: 0.411193
+i: 1 height: 34.1071 x: 211 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.113732
+Number of cones: 2
+i: 0 height: 35.4437 x: 178 y: 304 ratio: 0.304946
+i: 0 height: 33.216 x: 543 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.129384
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.010989
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0136264
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 51.0378 x: 211 y: 313 ratio: 0.332838
+i: 1 height: 30.0972 x: 89 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.101585
+Received left sensor voltage: 0.0145055
+Number of cones: 4
+i: 0 height: 72.8696 x: 561 y: 343 ratio: 0.431686
+i: 1 height: 39.0081 x: 286 y: 302 ratio: 0.298859
+i: 2 height: 27.4239 x: 172 y: 292 ratio: 0.269024
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 54.6022 x: 485 y: 319 ratio: 0.351884
+i: 1 height: 24.3051 x: 272 y: 287 ratio: 0.254483
+i: 0 height: 17.1763 x: 0 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: 0.120976
+Received right sensor voltage: 0.0259341
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Number of cones: 1
+i: 0 height: 40.3447 x: 163 y: 315 ratio: 0.339146
+blueOnLeft: 1
+ Ground Steering Request: -0.0725563
+Received left sensor voltage: 0.00703297
+Number of cones: 2
+i: 0 height: 39.8992 x: 161 y: 309 ratio: 0.320341
+i: 0 height: 34.5526 x: 563 y: 310 ratio: 0.32345
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0158242
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.04
+Number of cones: 4
+i: 0 height: 80.8894 x: 513 y: 406 ratio: 0.668694
+i: 1 height: 52.3745 x: 225 y: 321 ratio: 0.358313
+i: 2 height: 31.4338 x: 97 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.00703297
+Number of cones: 3
+i: 0 height: 75.9884 x: 627 y: 381 ratio: 0.569871
+i: 1 height: 43.018 x: 295 y: 306 ratio: 0.311074
+i: 2 height: 29.2061 x: 176 y: 298 ratio: 0.286804
+blueOnLeft: 0
+ Ground Steering Request: 0.21613
+Received left sensor voltage: 0.0114286
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 59.9488 x: 521 y: 328 ratio: 0.381132
+i: 1 height: 25.6417 x: 284 y: 289 ratio: 0.260269
+i: 0 height: 18.0674 x: 7 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: 0.0697641
+Received left sensor voltage: 0.0105494
+Number of cones: 2
+i: 0 height: 47.4735 x: 102 y: 319 ratio: 0.351884
+i: 1 height: 29.6516 x: 279 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.0762801
+Received right sensor voltage: 0.0149451
+Number of cones: 2
+i: 0 height: 45.6913 x: 140 y: 315 ratio: 0.339146
+i: 0 height: 41.2358 x: 583 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.0897467
+Received right sensor voltage: 7.34615
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0628571
+Number of cones: 3
+i: 0 height: 46.5824 x: 322 y: 311 ratio: 0.326569
+i: 1 height: 30.9883 x: 195 y: 298 ratio: 0.286804
+i: 2 height: 25.1962 x: 82 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 51.9289 x: 243 y: 332 ratio: 0.394392
+i: 1 height: 34.1071 x: 103 y: 297 ratio: 0.283816
+i: 2 height: 20.7407 x: 9 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.217291
+Received right sensor voltage: 0.0167033
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 66.1864 x: 569 y: 351 ratio: 0.459572
+i: 1 height: 45.2457 x: 580 y: 338 ratio: 0.414583
+i: 2 height: 28.315 x: 303 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.102678
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00923077
+Number of cones: 2
+i: 0 height: 55.4933 x: 26 y: 333 ratio: 0.397732
+i: 1 height: 33.216 x: 245 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0136264
+Received right sensor voltage: 7.40901
+Received left sensor voltage: 0.00791209
+Number of cones: 2
+i: 0 height: 51.0378 x: 114 y: 321 ratio: 0.358313
+i: 0 height: 50.1467 x: 620 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.055793
+Received right sensor voltage: 0.061978
+Received right sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 36.7804 x: 207 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.146201
+Received left sensor voltage: 0.0993407
+Received right sensor voltage: 0.0246154
+Number of cones: 3
+i: 0 height: 50.1467 x: 275 y: 351 ratio: 0.459572
+i: 1 height: 38.5625 x: 118 y: 303 ratio: 0.301898
+i: 2 height: 21.1863 x: 27 y: 288 ratio: 0.257371
+blueOnLeft: 1
+ Ground Steering Request: -0.218461
+Number of cones: 2
+i: 0 height: 50.1467 x: 358 y: 313 ratio: 0.332838
+i: 1 height: 32.3249 x: 222 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.115083
+Number of cones: 2
+i: 0 height: 75.9884 x: 630 y: 393 ratio: 0.616523
+i: 1 height: 30.5427 x: 323 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.088426
+Received right sensor voltage: 0.043956
+Received left sensor voltage: 0.00483516
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0549451
+Number of cones: 2
+i: 0 height: 60.8398 x: 85 y: 331 ratio: 0.391062
+i: 1 height: 30.5427 x: 219 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.125178
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0263736
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+Number of cones: 1
+i: 0 height: 42.1269 x: 156 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: -0.202863
+i: 0 height: 48.8101 x: 407 y: 320 ratio: 0.355094
+i: 1 height: 34.1071 x: 251 y: 304 ratio: 0.304946
+i: 2 height: 20.7407 x: 15 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 1
+i: 0 height: 41.2358 x: 154 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.13849
+Number of cones: 2
+i: 0 height: 31.8794 x: 349 y: 295 ratio: 0.277869
+i: 1 height: 20.2952 x: 327 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.104573
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 68.8597 x: 37 y: 341 ratio: 0.424814
+i: 1 height: 37.2259 x: 210 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.221989
+Received left sensor voltage: 0.0171429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.0131868
+Number of cones: 1
+i: 0 height: 46.5824 x: 197 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.140559
+Received left sensor voltage: 0.0527473
+Number of cones: 2
+i: 0 height: 51.0378 x: 95 y: 323 ratio: 0.364782
+i: 1 height: 31.4338 x: 293 y: 311 ratio: 0.326569
+blueOnLeft: 1
+Received right sensor voltage: 0.00703297
+ Ground Steering Request: -0.0784308
+Received right sensor voltage: 0.0268132
+Received right sensor voltage: 7.40901
+Received left sensor voltage: 0.00483516
+Number of cones: 4
+i: 0 height: 59.0577 x: 461 y: 333 ratio: 0.397732
+i: 1 height: 36.3348 x: 283 y: 303 ratio: 0.301898
+i: 2 height: 26.9784 x: 163 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.00835165
+Number of cones: 2
+i: 0 height: 34.5526 x: 380 y: 300 ratio: 0.292812
+i: 0 height: 22.5229 x: 71 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.167753
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 7.31231
+Number of cones: 3
+i: 0 height: 73.3151 x: 0 y: 361 ratio: 0.495334
+i: 1 height: 42.1269 x: 201 y: 311 ratio: 0.326569
+i: 2 height: 26.9784 x: 307 y: 300 ratio: 0.292812
+blueOnLeft: 1
+ Ground Steering Request: -0.143266
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 51.9289 x: 245 y: 319 ratio: 0.351884
+i: 1 height: 22.9684 x: 157 y: 292 ratio: 0.269024
+Received right sensor voltage: 0.0426374
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.0356044
+Number of cones: 4
+i: 0 height: 65.7409 x: 533 y: 339 ratio: 0.417983
+i: 1 height: 33.6615 x: 320 y: 305 ratio: 0.308005
+i: 2 height: 27.8694 x: 193 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.0105494
+Received right sensor voltage: 0.00791209
+Number of cones: 4
+i: 0 height: 38.5625 x: 420 y: 305 ratio: 0.308005
+i: 1 height: 23.414 x: 387 y: 286 ratio: 0.251605
+i: 0 height: 48.3646 x: 0 y: 303 ratio: 0.301898
+i: 1 height: 23.414 x: 95 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.0679072
+Number of cones: 5
+i: 0 height: 59.9488 x: 17 y: 333 ratio: 0.397732
+i: 1 height: 34.9982 x: 262 y: 319 ratio: 0.351884
+i: 2 height: 27.8694 x: 419 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.184355
+Received right sensor voltage: 0.00659341
+Number of cones: 1
+i: 0 height: 47.919 x: 181 y: 323 ratio: 0.364782
+blueOnLeft: 1
+ Ground Steering Request: -0.0731055
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.072967
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00483516
+Number of cones: 2
+i: 0 height: 39.8992 x: 227 y: 318 ratio: 0.348685
+i: 1 height: 24.7506 x: 573 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.141166
+Number of cones: 2
+i: 0 height: 54.6022 x: 301 y: 332 ratio: 0.394392
+i: 1 height: 25.6417 x: 202 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.161571
+Received left sensor voltage: 0.0131868
+Number of cones: 4
+i: 0 height: 76.8795 x: 623 y: 356 ratio: 0.477327
+i: 1 height: 38.5625 x: 355 y: 309 ratio: 0.320341
+i: 2 height: 29.6516 x: 219 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: 0.212145
+Received right sensor voltage: 0.00615385
+Number of cones: 4
+i: 0 height: 40.7903 x: 469 y: 313 ratio: 0.332838
+i: 1 height: 24.7506 x: 426 y: 283 ratio: 0.243031
+i: 0 height: 47.4735 x: 0 y: 311 ratio: 0.326569
+i: 1 height: 24.7506 x: 119 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.0621739
+Received left sensor voltage: 0.0210989
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 55.4933 x: 135 y: 335 ratio: 0.404442
+blueOnLeft: 1
+ Ground Steering Request: -0.0579409
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0413187
+Number of cones: 3
+i: 0 height: 45.6913 x: 187 y: 319 ratio: 0.351884
+i: 1 height: 32.3249 x: 385 y: 305 ratio: 0.308005
+i: 2 height: 25.6417 x: 565 y: 296 ratio: 0.280837
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.0140659
+Received right sensor voltage: 0.0826374
+Number of cones: 3
+i: 0 height: 41.2358 x: 399 y: 309 ratio: 0.320341
+i: 1 height: 32.3249 x: 250 y: 297 ratio: 0.283816
+i: 2 height: 22.0773 x: 128 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 54.1567 x: 377 y: 349 ratio: 0.45254
+i: 1 height: 28.315 x: 249 y: 300 ratio: 0.292812
+blueOnLeft: 1
+ Ground Steering Request: -0.150163
+Received right sensor voltage: 0.0461538
+Received left sensor voltage: 0.0426374
+Received right sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 46.5824 x: 534 y: 319 ratio: 0.351884
+i: 1 height: 27.4239 x: 473 y: 286 ratio: 0.251605
+i: 0 height: 53.7111 x: 5 y: 319 ratio: 0.351884
+i: 1 height: 26.9784 x: 143 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0522114
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 7.39934
+Number of cones: 2
+i: 0 height: 67.9686 x: 53 y: 352 ratio: 0.463103
+i: 1 height: 36.7804 x: 251 y: 317 ratio: 0.345495
+blueOnLeft: 1
+ Ground Steering Request: -0.169206
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0158242
+Received right sensor voltage: 0.0171429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00791209
+Number of cones: 1
+i: 0 height: 31.4338 x: 298 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.215297
+Received left sensor voltage: 0.0382418
+Received right sensor voltage: 0.0153846
+Number of cones: 3
+i: 0 height: 52.82 x: 134 y: 327 ratio: 0.377842
+i: 1 height: 35.4437 x: 365 y: 308 ratio: 0.317242
+i: 2 height: 26.9784 x: 555 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 47.0279 x: 448 y: 319 ratio: 0.351884
+i: 1 height: 34.9982 x: 281 y: 299 ratio: 0.289803
+i: 2 height: 23.8595 x: 155 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 4
+i: 0 height: 56.3844 x: 624 y: 336 ratio: 0.407812
+i: 1 height: 31.8794 x: 529 y: 289 ratio: 0.260269
+i: 0 height: 64.4042 x: 13 y: 328 ratio: 0.381132
+i: 1 height: 29.6516 x: 171 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: -0.137568
+Received right sensor voltage: 0.0742857
+Received right sensor voltage: 0.00923077
+Number of cones: 1
+i: 0 height: 42.1269 x: 207 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.144054
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.120879
+Number of cones: 3
+i: 0 height: 54.6022 x: 495 y: 329 ratio: 0.384431
+i: 1 height: 40.3447 x: 303 y: 303 ratio: 0.301898
+i: 2 height: 25.6417 x: 172 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 34.1071 x: 350 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.217823
+Received left sensor voltage: 0.16
+Received right sensor voltage: 0.0720879
+Received left sensor voltage: 0.00835165
+Number of cones: 3
+i: 0 height: 63.5131 x: 64 y: 343 ratio: 0.431686
+i: 1 height: 38.5625 x: 341 y: 311 ratio: 0.326569
+i: 2 height: 28.7605 x: 542 y: 301 ratio: 0.29583
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 37.6715 x: 588 y: 292 ratio: 0.269024
+i: 0 height: 71.9785 x: 7 y: 341 ratio: 0.424814
+i: 1 height: 32.3249 x: 199 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: -0.011646
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 50.1467 x: 150 y: 331 ratio: 0.391062
+blueOnLeft: 1
+ Ground Steering Request: -0.0565421
+Number of cones: 2
+i: 0 height: 39.4536 x: 405 y: 293 ratio: 0.271962
+i: 0 height: 36.7804 x: 0 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.068581
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0101099
+Received right sensor voltage: 0.0259341
+Received right sensor voltage: 0.0334066
+Received left sensor voltage: 0.00967033
+Number of cones: 3
+i: 0 height: 63.9587 x: 549 y: 340 ratio: 0.421394
+i: 1 height: 44.3546 x: 323 y: 305 ratio: 0.308005
+i: 2 height: 27.8694 x: 187 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 30.5427 x: 621 y: 296 ratio: 0.280837
+i: 0 height: 34.9982 x: 197 y: 303 ratio: 0.301898
+i: 1 height: 25.1962 x: 291 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: -0.0479275
+Number of cones: 2
+i: 0 height: 43.018 x: 303 y: 313 ratio: 0.332838
+i: 1 height: 30.0972 x: 520 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.129279
+Received left sensor voltage: 0.0457143
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.0931868
+Number of cones: 1
+i: 0 height: 60.3943 x: 71 y: 343 ratio: 0.431686
+blueOnLeft: 1
+ Ground Steering Request: 0.112063
+Received left sensor voltage: 7.33165
+Received left sensor voltage: 0.0131868
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.115604
+Received right sensor voltage: 0.101538
+Number of cones: 3
+i: 0 height: 77.7706 x: 625 y: 364 ratio: 0.506258
+i: 1 height: 49.2557 x: 350 y: 311 ratio: 0.326569
+i: 2 height: 29.6516 x: 203 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.197073
+Number of cones: 2
+i: 0 height: 44.8002 x: 441 y: 288 ratio: 0.257371
+i: 0 height: 39.4536 x: 0 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.062405
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 49.7012 x: 253 y: 325 ratio: 0.371292
+i: 1 height: 31.8794 x: 493 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.118873
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 38.5625 x: 187 y: 305 ratio: 0.308005
+i: 1 height: 26.9784 x: 295 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.0404396
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 7.31714
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 40.3447 x: 225 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: -0.0982049
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 47.4735 x: 385 y: 321 ratio: 0.358313
+i: 1 height: 32.7704 x: 219 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.111735
+Received right sensor voltage: 0.00967033
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 52.82 x: 453 y: 292 ratio: 0.269024
+i: 1 height: 21.1863 x: 485 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0584763
+Received left sensor voltage: 0.0720879
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 43.9091 x: 175 y: 309 ratio: 0.320341
+i: 1 height: 28.7605 x: 297 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: -0.0799659
+Number of cones: 2
+i: 0 height: 51.9289 x: 194 y: 337 ratio: 0.411193
+i: 1 height: 33.216 x: 463 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.142105
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0263736
+Number of cones: 1
+i: 0 height: 46.5824 x: 175 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.0714179
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 57.2755 x: 435 y: 333 ratio: 0.397732
+i: 1 height: 35.8893 x: 245 y: 304 ratio: 0.304946
+blueOnLeft: 0
+ Ground Steering Request: 0.0997851
+Number of cones: 3
+i: 0 height: 56.3844 x: 419 y: 294 ratio: 0.27491
+i: 1 height: 22.0773 x: 449 y: 289 ratio: 0.260269
+i: 0 height: 26.9784 x: 67 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.0633582
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0224176
+Received left sensor voltage: 0.0914286
+Received left sensor voltage: 0.0105494
+Received right sensor voltage: 0.0131868
+Number of cones: 2
+i: 0 height: 51.9289 x: 151 y: 319 ratio: 0.351884
+i: 1 height: 32.3249 x: 293 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: -0.0851373
+Number of cones: 2
+i: 0 height: 68.8597 x: 92 y: 353 ratio: 0.466644
+i: 1 height: 34.9982 x: 424 y: 310 ratio: 0.32345
+blueOnLeft: 1
+ Ground Steering Request: -0.0937622
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 55.4933 x: 113 y: 329 ratio: 0.384431
+i: 1 height: 32.7704 x: 303 y: 304 ratio: 0.304946
+blueOnLeft: 1
+ Ground Steering Request: -0.136121
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 67.0775 x: 511 y: 345 ratio: 0.438597
+i: 1 height: 39.0081 x: 278 y: 306 ratio: 0.311074
+i: 2 height: 19.4041 x: 156 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.0136264
+Received right sensor voltage: 0.00483516
+Number of cones: 5
+i: 0 height: 54.6022 x: 423 y: 337 ratio: 0.411193
+i: 1 height: 35.8893 x: 408 y: 297 ratio: 0.283816
+i: 2 height: 24.7506 x: 439 y: 292 ratio: 0.269024
+i: 0 height: 31.4338 x: 19 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.0608693
+Number of cones: 2
+i: 0 height: 40.7903 x: 373 y: 304 ratio: 0.304946
+i: 1 height: 23.414 x: 515 y: 285 ratio: 0.248737
+blueOnLeft: 1
+ Ground Steering Request: -0.134331
+Received left sensor voltage: 0.0624176
+Number of cones: 2
+i: 0 height: 66.1864 x: 71 y: 335 ratio: 0.404442
+i: 1 height: 36.7804 x: 255 y: 311 ratio: 0.326569
+blueOnLeft: 0
+ Ground Steering Request: -0.132562
+Received left sensor voltage: 0.0158242
+Received left sensor voltage: 0.0153846
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.072967
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 7.26396
+Received left sensor voltage: 0.0918681
+Received left sensor voltage: 7.33165
+Number of cones: 2
+i: 0 height: 67.0775 x: 23 y: 345 ratio: 0.438597
+i: 1 height: 36.7804 x: 269 y: 308 ratio: 0.317242
+blueOnLeft: 1
+ Ground Steering Request: -0.0617726
+Number of cones: 4
+i: 0 height: 55.0477 x: 439 y: 359 ratio: 0.488101
+i: 1 height: 39.8992 x: 406 y: 301 ratio: 0.29583
+i: 2 height: 26.5328 x: 438 y: 292 ratio: 0.269024
+i: 0 height: 24.3051 x: 129 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.045552
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 76.8795 x: 625 y: 369 ratio: 0.524667
+i: 1 height: 36.7804 x: 319 y: 309 ratio: 0.320341
+blueOnLeft: 0
+ Ground Steering Request: 0.122186
+Received right sensor voltage: 0.0483516
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0650549
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 44.8002 x: 316 y: 313 ratio: 0.332838
+i: 1 height: 23.8595 x: 479 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.122751
+Number of cones: 2
+i: 0 height: 75.0973 x: 0 y: 351 ratio: 0.459572
+i: 1 height: 41.2358 x: 235 y: 313 ratio: 0.332838
+blueOnLeft: 0
+ Ground Steering Request: -0.0633038
+Received right sensor voltage: 0.00483516
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 41.6814 x: 229 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.0912702
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 42.1269 x: 394 y: 318 ratio: 0.348685
+i: 0 height: 16.2852 x: 0 y: 271 ratio: 0.20964
+blueOnLeft: 0
+ Ground Steering Request: 0.0719166
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.0232967
+Number of cones: 4
+i: 0 height: 44.8002 x: 412 y: 311 ratio: 0.326569
+i: 1 height: 28.7605 x: 442 y: 297 ratio: 0.283816
+i: 2 height: 22.0773 x: 479 y: 288 ratio: 0.257371
+i: 0 height: 27.8694 x: 107 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0533885
+Received left sensor voltage: 0.0430769
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 51.0378 x: 244 y: 323 ratio: 0.364782
+i: 1 height: 24.3051 x: 429 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.111212
+Number of cones: 2
+i: 0 height: 47.4735 x: 207 y: 315 ratio: 0.339146
+i: 1 height: 26.9784 x: 367 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: -0.103979
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0923077
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 49.7012 x: 180 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.0809989
+Number of cones: 2
+i: 0 height: 52.82 x: 485 y: 326 ratio: 0.374562
+i: 0 height: 25.1962 x: 0 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.0636011
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0153846
+Number of cones: 2
+i: 0 height: 58.1666 x: 150 y: 335 ratio: 0.404442
+i: 1 height: 25.1962 x: 377 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0971442
+Received right sensor voltage: 0.0145055
+Number of cones: 2
+i: 0 height: 46.1368 x: 494 y: 309 ratio: 0.320341
+i: 0 height: 29.6516 x: 151 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.116356
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 50.1467 x: 165 y: 319 ratio: 0.351884
+i: 1 height: 27.8694 x: 351 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: -0.0925393
+Received left sensor voltage: 0.00923077
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 7.40418
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 58.1666 x: 121 y: 326 ratio: 0.374562
+i: 1 height: 35.4437 x: 325 y: 310 ratio: 0.32345
+i: 2 height: 25.1962 x: 635 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 67.0775 x: 602 y: 345 ratio: 0.438597
+i: 1 height: 23.8595 x: 360 y: 294 ratio: 0.27491
+i: 0 height: 27.8694 x: 47 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0644937
+Received left sensor voltage: 0.0307692
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.021978
+Received left sensor voltage: 0.0140659
+Number of cones: 2
+i: 0 height: 70.6419 x: 14 y: 347 ratio: 0.445548
+i: 1 height: 26.9784 x: 319 y: 288 ratio: 0.257371
+blueOnLeft: 1
+ Ground Steering Request: -0.0776958
+Number of cones: 4
+i: 0 height: 67.0775 x: 617 y: 389 ratio: 0.600812
+i: 1 height: 57.2755 x: 611 y: 313 ratio: 0.332838
+i: 0 height: 49.2557 x: 7 y: 319 ratio: 0.351884
+i: 1 height: 31.4338 x: 209 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: -0.0528894
+Received right sensor voltage: 0.0171429
+Number of cones: 2
+i: 0 height: 60.8398 x: 123 y: 331 ratio: 0.391062
+i: 1 height: 30.5427 x: 343 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: -0.0876706
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00483516
+Received left sensor voltage: 0.0105494
+Number of cones: 4
+i: 0 height: 70.6419 x: 57 y: 339 ratio: 0.417983
+i: 1 height: 38.5625 x: 301 y: 315 ratio: 0.339146
+i: 2 height: 30.5427 x: 458 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 53.7111 x: 0 y: 335 ratio: 0.404442
+i: 1 height: 34.9982 x: 211 y: 307 ratio: 0.314153
+blueOnLeft: 0
+ Ground Steering Request: -0.052593
+Received right sensor voltage: 0.0105494
+Number of cones: 2
+i: 0 height: 27.4239 x: 412 y: 294 ratio: 0.27491
+i: 0 height: 30.5427 x: 83 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.0609122
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0523077
+Received right sensor voltage: 0.0136264
+Received left sensor voltage: 0.0131868
+Received right sensor voltage: 0.0140659
+Number of cones: 3
+i: 0 height: 79.9983 x: 71 y: 345 ratio: 0.438597
+i: 1 height: 34.1071 x: 341 y: 301 ratio: 0.29583
+i: 2 height: 22.5229 x: 419 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 30.5427 x: 255 y: 291 ratio: 0.266095
+i: 0 height: 37.6715 x: 595 y: 320 ratio: 0.355094
+blueOnLeft: 1
+ Ground Steering Request: -0.0687759
+Received right sensor voltage: 0.0215385
+Received left sensor voltage: 0.0158242
+Number of cones: 3
+i: 0 height: 72.424 x: 0 y: 381 ratio: 0.569871
+i: 1 height: 42.1269 x: 275 y: 319 ratio: 0.351884
+i: 2 height: 32.3249 x: 443 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.180733
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 31.8794 x: 428 y: 297 ratio: 0.283816
+i: 0 height: 34.9982 x: 69 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.0638812
+Number of cones: 1
+i: 0 height: 37.6715 x: 197 y: 309 ratio: 0.320341
+blueOnLeft: 0
+ Ground Steering Request: -0.0847446
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00967033
+Number of cones: 2
+i: 0 height: 35.8893 x: 183 y: 295 ratio: 0.277869
+i: 0 height: 40.3447 x: 545 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.192473
+Received left sensor voltage: 0.0171429
+Number of cones: 3
+i: 0 height: 73.3151 x: 9 y: 367 ratio: 0.517273
+i: 1 height: 36.7804 x: 337 y: 303 ratio: 0.301898
+i: 2 height: 22.9684 x: 423 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: -0.201883
+Received left sensor voltage: 0.00703297
+Received left sensor voltage: 0.0118681
+Received left sensor voltage: 0.0118681
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 47.4735 x: 241 y: 323 ratio: 0.364782
+i: 1 height: 33.6615 x: 429 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.113282
+Received right sensor voltage: 7.33648
+Number of cones: 3
+i: 0 height: 34.5526 x: 434 y: 299 ratio: 0.289803
+i: 1 height: 22.5229 x: 405 y: 286 ratio: 0.251605
+i: 0 height: 38.5625 x: 37 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.113433
+Received right sensor voltage: 0.010989
+Received right sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 43.9091 x: 183 y: 311 ratio: 0.326569
+blueOnLeft: 0
+ Ground Steering Request: -0.0890842
+Number of cones: 2
+i: 0 height: 40.3447 x: 105 y: 305 ratio: 0.308005
+i: 0 height: 42.1269 x: 500 y: 321 ratio: 0.358313
+blueOnLeft: 1
+ Ground Steering Request: 0.0496675
+Received right sensor voltage: 0.0259341
+Received left sensor voltage: 0.0474725
+Received right sensor voltage: 0.0417582
+Number of cones: 2
+i: 0 height: 40.3447 x: 303 y: 307 ratio: 0.314153
+i: 1 height: 23.414 x: 399 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: -0.160865
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.20044
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0149451
+Received right sensor voltage: 7.36549
+Number of cones: 2
+i: 0 height: 51.4834 x: 205 y: 327 ratio: 0.377842
+i: 1 height: 35.8893 x: 413 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 46.5824 x: 121 y: 317 ratio: 0.345495
+i: 1 height: 27.8694 x: 339 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: -0.0891227
+Number of cones: 4
+i: 0 height: 37.2259 x: 442 y: 301 ratio: 0.29583
+i: 1 height: 23.414 x: 408 y: 288 ratio: 0.257371
+i: 0 height: 42.1269 x: 0 y: 306 ratio: 0.311074
+i: 1 height: 23.414 x: 115 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.0615232
+Received left sensor voltage: 0.0105494
+Number of cones: 2
+i: 0 height: 47.4735 x: 17 y: 309 ratio: 0.320341
+i: 0 height: 43.9091 x: 471 y: 317 ratio: 0.345495
+blueOnLeft: 1
+ Ground Steering Request: 0.0980157
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0698901
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.00967033
+Number of cones: 2
+i: 0 height: 44.8002 x: 239 y: 311 ratio: 0.326569
+i: 1 height: 24.3051 x: 355 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.133473
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 56.3844 x: 158 y: 337 ratio: 0.411193
+i: 1 height: 38.5625 x: 395 y: 315 ratio: 0.339146
+i: 2 height: 28.7605 x: 583 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 42.1269 x: 448 y: 303 ratio: 0.301898
+i: 1 height: 25.1962 x: 410 y: 289 ratio: 0.260269
+i: 0 height: 24.3051 x: 99 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0664044
+Number of cones: 2
+i: 0 height: 56.3844 x: 27 y: 325 ratio: 0.371292
+i: 1 height: 28.7605 x: 291 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: -0.0710695
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 18.9585 x: 129 y: 278 ratio: 0.228942
+i: 0 height: 46.5824 x: 471 y: 317 ratio: 0.345495
+i: 1 height: 1.13668 x: 0 y: 242 ratio: 0.134916
+blueOnLeft: 1
+ Ground Steering Request: -0.0890832
+Received left sensor voltage: 0.219341
+Number of cones: 2
+i: 0 height: 51.9289 x: 133 y: 315 ratio: 0.339146
+i: 1 height: 23.414 x: 293 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: -0.0795216
+Received left sensor voltage: 0.0043956
+Received left sensor voltage: 0.0131868
+Received right sensor voltage: 0.00483516
+Number of cones: 3
+i: 0 height: 72.8696 x: 87 y: 353 ratio: 0.466644
+i: 1 height: 42.1269 x: 375 y: 319 ratio: 0.351884
+i: 2 height: 30.0972 x: 571 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 69.7508 x: 0 y: 335 ratio: 0.404442
+i: 1 height: 27.8694 x: 213 y: 291 ratio: 0.266095
+i: 2 height: 15.3942 x: 287 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: -0.0938297
+Number of cones: 3
+i: 0 height: 42.1269 x: 457 y: 307 ratio: 0.314153
+i: 1 height: 26.9784 x: 413 y: 284 ratio: 0.245879
+i: 0 height: 26.0873 x: 83 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.126297
+Received left sensor voltage: 0.0145055
+Number of cones: 1
+i: 0 height: 31.4338 x: 275 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: -0.121283
+Number of cones: 2
+i: 0 height: 19.4041 x: 105 y: 276 ratio: 0.223377
+i: 0 height: 56.3844 x: 487 y: 323 ratio: 0.364782
+blueOnLeft: 1
+ Ground Steering Request: 0.135653
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0171429
+Received right sensor voltage: 0.0918681
+Received right sensor voltage: 0.0149451
+Received left sensor voltage: 0.00703297
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 7.25429
+Received right sensor voltage: 0.0241758
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00703297
+Number of cones: 3
+i: 0 height: 72.424 x: 0 y: 377 ratio: 0.554642
+i: 1 height: 46.5824 x: 348 y: 323 ratio: 0.364782
+i: 2 height: 31.4338 x: 559 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 7.33648
+Number of cones: 1
+i: 0 height: 34.1071 x: 261 y: 305 ratio: 0.308005
+blueOnLeft: 0
+ Ground Steering Request: -0.226
+Number of cones: 4
+i: 0 height: 55.0477 x: 479 y: 361 ratio: 0.495334
+i: 1 height: 48.3646 x: 470 y: 313 ratio: 0.332838
+i: 2 height: 28.7605 x: 417 y: 284 ratio: 0.245879
+i: 0 height: 27.8694 x: 63 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.060895
+Received left sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 23.414 x: 123 y: 277 ratio: 0.226155
+i: 0 height: 70.6419 x: 575 y: 337 ratio: 0.411193
+blueOnLeft: 1
+ Ground Steering Request: 0.0599361
+Received right sensor voltage: 0.0263736
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0826374
+Number of cones: 4
+i: 0 height: 35.4437 x: 613 y: 298 ratio: 0.286804
+i: 1 height: 19.4041 x: 525 y: 281 ratio: 0.237365
+i: 0 height: 34.1071 x: 138 y: 297 ratio: 0.283816
+i: 1 height: 18.9585 x: 235 y: 279 ratio: 0.23174
+blueOnLeft: 0
+ Ground Steering Request: -0.05469
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0325275
+Number of cones: 2
+i: 0 height: 52.82 x: 313 y: 329 ratio: 0.384431
+i: 1 height: 33.216 x: 544 y: 315 ratio: 0.339146
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0162637
+Number of cones: 1
+i: 0 height: 35.8893 x: 227 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: -0.0784975
+Number of cones: 3
+i: 0 height: 54.6022 x: 488 y: 323 ratio: 0.364782
+i: 1 height: 33.216 x: 424 y: 287 ratio: 0.254483
+i: 0 height: 32.3249 x: 37 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.206886
+Number of cones: 4
+i: 0 height: 24.3051 x: 527 y: 287 ratio: 0.254483
+i: 0 height: 49.2557 x: 75 y: 307 ratio: 0.314153
+i: 1 height: 23.414 x: 211 y: 283 ratio: 0.243031
+i: 2 height: 16.2852 x: 247 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: -0.0535543
+Received left sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 25.1962 x: 181 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: -0.129527
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.111209
+Received right sensor voltage: 0.0571429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0123077
+Received right sensor voltage: 0.101538
+Number of cones: 2
+i: 0 height: 50.1467 x: 272 y: 339 ratio: 0.417983
+i: 1 height: 34.9982 x: 519 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Number of cones: 5
+i: 0 height: 62.1765 x: 523 y: 335 ratio: 0.404442
+i: 1 height: 36.7804 x: 430 y: 287 ratio: 0.254483
+i: 2 height: 18.513 x: 466 y: 282 ratio: 0.240193
+i: 0 height: 35.8893 x: 11 y: 303 ratio: 0.301898
+i: 1 height: 24.3051 x: 141 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.113092
+Number of cones: 4
+i: 0 height: 27.4239 x: 534 y: 292 ratio: 0.269024
+i: 0 height: 59.9488 x: 3 y: 321 ratio: 0.358313
+i: 1 height: 27.8694 x: 185 y: 289 ratio: 0.260269
+i: 2 height: 18.9585 x: 227 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: -0.186338
+Number of cones: 2
+i: 0 height: 39.4536 x: 169 y: 303 ratio: 0.301898
+i: 1 height: 23.414 x: 319 y: 290 ratio: 0.263177
+blueOnLeft: 0
+ Ground Steering Request: -0.134015
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0127473
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 7.39451
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 26.9784 x: 189 y: 283 ratio: 0.243031
+i: 0 height: 28.7605 x: 519 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.0554638
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.0430769
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0334066
+Number of cones: 1
+i: 0 height: 37.6715 x: 481 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 76.434 x: 559 y: 355 ratio: 0.473756
+i: 1 height: 38.5625 x: 441 y: 290 ratio: 0.263177
+i: 2 height: 20.2952 x: 474 y: 286 ratio: 0.251605
+i: 0 height: 26.0873 x: 127 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.116412
+Number of cones: 3
+i: 0 height: 30.9883 x: 547 y: 303 ratio: 0.301898
+i: 0 height: 32.3249 x: 153 y: 291 ratio: 0.266095
+i: 1 height: 20.7407 x: 213 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: -0.0533454
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00703297
+Number of cones: 2
+i: 0 height: 44.8002 x: 127 y: 309 ratio: 0.320341
+i: 1 height: 24.3051 x: 301 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: -0.0625661
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 40.3447 x: 183 y: 329 ratio: 0.384431
+i: 1 height: 30.5427 x: 173 y: 289 ratio: 0.260269
+i: 0 height: 33.6615 x: 543 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.0554973
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0136264
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0720879
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 81.335 x: 77 y: 387 ratio: 0.593016
+i: 1 height: 40.7903 x: 442 y: 315 ratio: 0.339146
+blueOnLeft: 1
+ Ground Steering Request: -0.0882256
+Received right sensor voltage: 0.0149451
+Number of cones: 3
+i: 0 height: 35.8893 x: 565 y: 296 ratio: 0.280837
+i: 0 height: 37.6715 x: 117 y: 297 ratio: 0.283816
+i: 1 height: 22.5229 x: 197 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: -0.050111
+Number of cones: 3
+i: 0 height: 40.3447 x: 459 y: 295 ratio: 0.277869
+i: 1 height: 21.6318 x: 486 y: 288 ratio: 0.257371
+i: 0 height: 28.7605 x: 115 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.120851
+Number of cones: 2
+i: 0 height: 55.4933 x: 69 y: 316 ratio: 0.342316
+i: 1 height: 25.1962 x: 283 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: -0.1267
+Received left sensor voltage: 0.0175824
+Received left sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 48.3646 x: 175 y: 345 ratio: 0.438597
+i: 1 height: 37.6715 x: 155 y: 295 ratio: 0.277869
+i: 0 height: 41.2358 x: 575 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.133075
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0725275
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00967033
+Number of cones: 2
+i: 0 height: 48.3646 x: 393 y: 313 ratio: 0.332838
+i: 1 height: 24.7506 x: 532 y: 294 ratio: 0.27491
+blueOnLeft: 1
+ Ground Steering Request: -0.165456
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.0153846
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 46.5824 x: 473 y: 297 ratio: 0.283816
+i: 1 height: 23.8595 x: 498 y: 289 ratio: 0.260269
+i: 0 height: 31.4338 x: 97 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.0880936
+Number of cones: 3
+i: 0 height: 40.3447 x: 586 y: 302 ratio: 0.298859
+i: 0 height: 44.8002 x: 67 y: 307 ratio: 0.314153
+i: 1 height: 26.0873 x: 175 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: -0.110278
+Number of cones: 2
+i: 0 height: 20.2952 x: 626 y: 281 ratio: 0.237365
+i: 0 height: 28.7605 x: 237 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: -0.0652053
+Received left sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 45.6913 x: 132 y: 307 ratio: 0.314153
+i: 1 height: 21.6318 x: 264 y: 289 ratio: 0.260269
+i: 0 height: 51.0378 x: 613 y: 319 ratio: 0.351884
+i: 1 height: 47.0279 x: 618 y: 345 ratio: 0.438597
+blueOnLeft: 1
+ Ground Steering Request: -0.0617612
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0140659
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.032967
+Number of cones: 2
+i: 0 height: 52.82 x: 337 y: 321 ratio: 0.358313
+i: 1 height: 25.6417 x: 485 y: 298 ratio: 0.286804
+blueOnLeft: 1
+ Ground Steering Request: -0.138372
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0136264
+Received right sensor voltage: 0.0646154
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 7.36066
+Number of cones: 4
+i: 0 height: 54.1567 x: 507 y: 327 ratio: 0.377842
+i: 1 height: 36.7804 x: 485 y: 302 ratio: 0.298859
+i: 2 height: 25.6417 x: 508 y: 292 ratio: 0.269024
+i: 0 height: 35.8893 x: 73 y: 305 ratio: 0.308005
+blueOnLeft: 0
+ Ground Steering Request: 0.0573052
+Number of cones: 3
+i: 0 height: 22.9684 x: 598 y: 288 ratio: 0.257371
+i: 0 height: 34.1071 x: 179 y: 299 ratio: 0.289803
+i: 1 height: 19.8496 x: 291 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: -0.0442022
+Number of cones: 2
+i: 0 height: 40.3447 x: 563 y: 309 ratio: 0.320341
+i: 0 height: 30.5427 x: 101 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.120439
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 54.1567 x: 103 y: 319 ratio: 0.351884
+i: 1 height: 24.7506 x: 263 y: 294 ratio: 0.27491
+blueOnLeft: 1
+ Ground Steering Request: -0.0694774
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0241758
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0127473
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 51.0378 x: 281 y: 330 ratio: 0.387741
+i: 1 height: 26.5328 x: 437 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.120307
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00703297
+Received left sensor voltage: 7.41385
+Received left sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 65.2953 x: 538 y: 341 ratio: 0.424814
+i: 1 height: 40.7903 x: 499 y: 307 ratio: 0.314153
+i: 2 height: 27.8694 x: 519 y: 294 ratio: 0.27491
+i: 0 height: 41.2358 x: 45 y: 311 ratio: 0.326569
+blueOnLeft: 0
+ Ground Steering Request: 0.0497825
+Number of cones: 3
+i: 0 height: 25.6417 x: 568 y: 291 ratio: 0.266095
+i: 0 height: 40.3447 x: 103 y: 303 ratio: 0.301898
+i: 1 height: 22.5229 x: 247 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: -0.0710763
+Number of cones: 4
+i: 0 height: 47.4735 x: 567 y: 318 ratio: 0.348685
+i: 1 height: 26.0873 x: 398 y: 292 ratio: 0.269024
+i: 0 height: 36.7804 x: 35 y: 285 ratio: 0.248737
+i: 1 height: 26.0873 x: 63 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.0413587
+Number of cones: 3
+i: 0 height: 72.424 x: 61 y: 335 ratio: 0.404442
+i: 1 height: 27.8694 x: 259 y: 298 ratio: 0.286804
+i: 0 height: 31.4338 x: 527 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: -0.119355
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0158242
+Received left sensor voltage: 0.0114286
+Received left sensor voltage: 0.0505495
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0193407
+Number of cones: 2
+i: 0 height: 53.7111 x: 195 y: 352 ratio: 0.463103
+i: 1 height: 27.8694 x: 387 y: 300 ratio: 0.292812
+blueOnLeft: 1
+ Ground Steering Request: -0.0953013
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 73.3151 x: 589 y: 362 ratio: 0.498965
+i: 1 height: 42.5725 x: 516 y: 288 ratio: 0.257371
+i: 0 height: 45.6913 x: 9 y: 313 ratio: 0.332838
+blueOnLeft: 0
+ Ground Steering Request: 0.180995
+Number of cones: 4
+i: 0 height: 47.4735 x: 632 y: 333 ratio: 0.397732
+i: 1 height: 28.315 x: 531 y: 292 ratio: 0.269024
+i: 0 height: 51.0378 x: 0 y: 315 ratio: 0.339146
+i: 1 height: 25.1962 x: 187 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.053046
+Number of cones: 5
+i: 0 height: 57.2755 x: 609 y: 330 ratio: 0.387741
+i: 1 height: 28.7605 x: 401 y: 295 ratio: 0.277869
+i: 0 height: 42.1269 x: 0 y: 311 ratio: 0.326569
+i: 1 height: 28.7605 x: 29 y: 289 ratio: 0.260269
+i: 2 height: 21.6318 x: 7 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.145948
+Number of cones: 3
+i: 0 height: 72.8696 x: 11 y: 353 ratio: 0.466644
+i: 1 height: 31.4338 x: 257 y: 299 ratio: 0.289803
+i: 0 height: 33.216 x: 547 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.172075
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0421978
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 82.6716 x: 69 y: 380 ratio: 0.566049
+i: 1 height: 29.6516 x: 337 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.0735579
+Received right sensor voltage: 0.0123077
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 53.7111 x: 545 y: 287 ratio: 0.254483
+i: 0 height: 27.8694 x: 218 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: -0.0489801
+Number of cones: 4
+i: 0 height: 54.1567 x: 607 y: 331 ratio: 0.391062
+i: 1 height: 29.2061 x: 490 y: 295 ratio: 0.277869
+i: 0 height: 28.7605 x: 113 y: 287 ratio: 0.254483
+i: 1 height: 17.1763 x: 189 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: -0.0491512
+Number of cones: 1
+i: 0 height: 33.6615 x: 401 y: 300 ratio: 0.292812
+blueOnLeft: 0
+ Ground Steering Request: 0.104888
+Number of cones: 2
+i: 0 height: 32.7704 x: 249 y: 301 ratio: 0.29583
+i: 0 height: 34.9982 x: 567 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.1222
+Received right sensor voltage: 0.0114286
+Received left sensor voltage: 7.41868
+Received left sensor voltage: 0.0228571
+Received right sensor voltage: 0.0162637
+Received left sensor voltage: 0.0127473
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 7.32681
+Received right sensor voltage: 0.0167033
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 33.216 x: 287 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.119919
+Received left sensor voltage: 0.0101099
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 51.9289 x: 583 y: 285 ratio: 0.248737
+i: 0 height: 28.7605 x: 213 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: -0.0476082
+Number of cones: 4
+i: 0 height: 63.0676 x: 631 y: 381 ratio: 0.569871
+i: 1 height: 32.3249 x: 483 y: 293 ratio: 0.271962
+i: 0 height: 33.216 x: 63 y: 291 ratio: 0.266095
+i: 1 height: 20.7407 x: 155 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: -0.13969
+Number of cones: 2
+i: 0 height: 34.1071 x: 195 y: 301 ratio: 0.29583
+i: 0 height: 35.8893 x: 539 y: 313 ratio: 0.332838
+blueOnLeft: 1
+ Ground Steering Request: -0.151552
+Number of cones: 2
+i: 0 height: 38.5625 x: 405 y: 304 ratio: 0.304946
+i: 1 height: 24.7506 x: 265 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00747253
+Received right sensor voltage: 0.0105494
+Received right sensor voltage: 0.139341
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 36.3348 x: 229 y: 304 ratio: 0.304946
+i: 0 height: 41.2358 x: 597 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.105786
+Received left sensor voltage: 0.00703297
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 0.0171429
+Number of cones: 2
+i: 0 height: 40.3447 x: 606 y: 280 ratio: 0.234548
+i: 0 height: 32.3249 x: 207 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: -0.172352
+Number of cones: 2
+i: 0 height: 45.6913 x: 464 y: 319 ratio: 0.351884
+i: 1 height: 27.8694 x: 301 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.0896001
+Number of cones: 3
+i: 0 height: 36.3348 x: 495 y: 297 ratio: 0.283816
+i: 0 height: 40.3447 x: 20 y: 297 ratio: 0.283816
+i: 1 height: 23.414 x: 133 y: 279 ratio: 0.23174
+blueOnLeft: 0
+ Ground Steering Request: 0.0655549
+Number of cones: 2
+i: 0 height: 34.9982 x: 153 y: 300 ratio: 0.292812
+i: 0 height: 36.7804 x: 533 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.0483514
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.032967
+Number of cones: 2
+i: 0 height: 40.3447 x: 157 y: 304 ratio: 0.304946
+i: 0 height: 44.8002 x: 557 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.09608
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0136264
+Received left sensor voltage: 0.0158242
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0892308
+Number of cones: 3
+i: 0 height: 25.1962 x: 625 y: 277 ratio: 0.226155
+i: 0 height: 34.1071 x: 189 y: 301 ratio: 0.29583
+i: 1 height: 21.6318 x: 313 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.0452508
+Number of cones: 4
+i: 0 height: 37.6715 x: 515 y: 305 ratio: 0.308005
+i: 1 height: 21.6318 x: 411 y: 288 ratio: 0.257371
+i: 0 height: 26.0873 x: 111 y: 279 ratio: 0.23174
+i: 1 height: 19.8496 x: 131 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 54.6022 x: 515 y: 324 ratio: 0.368032
+i: 1 height: 30.9883 x: 323 y: 300 ratio: 0.292812
+blueOnLeft: 0
+ Ground Steering Request: 0.086986
+Number of cones: 2
+i: 0 height: 38.5625 x: 111 y: 301 ratio: 0.29583
+i: 0 height: 42.1269 x: 543 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.116399
+Received left sensor voltage: 7.39451
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.0158242
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 46.1368 x: 89 y: 307 ratio: 0.314153
+i: 0 height: 47.4735 x: 539 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.0565403
+Received right sensor voltage: 0.119121
+Received left sensor voltage: 0.0153846
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.108132
+Number of cones: 2
+i: 0 height: 36.7804 x: 167 y: 301 ratio: 0.29583
+i: 1 height: 21.6318 x: 307 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 61.2854 x: 561 y: 335 ratio: 0.404442
+i: 1 height: 34.9982 x: 329 y: 301 ratio: 0.29583
+i: 2 height: 21.1863 x: 210 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 43.018 x: 543 y: 312 ratio: 0.329699
+i: 0 height: 28.7605 x: 95 y: 281 ratio: 0.237365
+i: 1 height: 21.6318 x: 119 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: 0.156834
+Number of cones: 2
+i: 0 height: 49.2557 x: 63 y: 303 ratio: 0.301898
+i: 0 height: 47.4735 x: 563 y: 311 ratio: 0.326569
+blueOnLeft: 1
+ Ground Steering Request: -0.0457703
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00747253
+Number of cones: 2
+i: 0 height: 51.4834 x: 39 y: 315 ratio: 0.339146
+i: 0 height: 48.3646 x: 543 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: 0.0469083
+Received left sensor voltage: 0.0628571
+Received right sensor voltage: 0.010989
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0140659
+Number of cones: 2
+i: 0 height: 41.2358 x: 139 y: 307 ratio: 0.314153
+i: 1 height: 23.414 x: 301 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.11949
+Number of cones: 4
+i: 0 height: 50.1467 x: 581 y: 322 ratio: 0.361543
+i: 1 height: 26.5328 x: 429 y: 297 ratio: 0.283816
+i: 0 height: 32.3249 x: 71 y: 295 ratio: 0.277869
+i: 1 height: 23.414 x: 105 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.125545
+Number of cones: 3
+i: 0 height: 72.424 x: 633 y: 403 ratio: 0.656504
+i: 1 height: 37.6715 x: 336 y: 301 ratio: 0.29583
+i: 2 height: 22.0773 x: 207 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.174245
+Number of cones: 3
+i: 0 height: 59.0577 x: 12 y: 315 ratio: 0.339146
+i: 1 height: 19.4041 x: 201 y: 283 ratio: 0.243031
+i: 0 height: 58.1666 x: 597 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: -0.045275
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Number of cones: 3
+i: 0 height: 54.6022 x: 0 y: 320 ratio: 0.355094
+i: 1 height: 18.9585 x: 157 y: 281 ratio: 0.237365
+i: 0 height: 55.4933 x: 561 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: 0.0495108
+Received right sensor voltage: 0.0628571
+Received left sensor voltage: 0.00483516
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0127473
+Received left sensor voltage: 0.0101099
+Received left sensor voltage: 0.0210989
+Number of cones: 2
+i: 0 height: 49.2557 x: 99 y: 309 ratio: 0.320341
+i: 1 height: 24.3051 x: 295 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: -0.0526091
+Received right sensor voltage: 0.00527472
+Number of cones: 5
+i: 0 height: 59.9488 x: 631 y: 361 ratio: 0.495334
+i: 1 height: 29.2061 x: 441 y: 297 ratio: 0.283816
+i: 0 height: 37.6715 x: 43 y: 303 ratio: 0.301898
+i: 1 height: 26.0873 x: 89 y: 289 ratio: 0.260269
+i: 2 height: 19.8496 x: 75 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.184052
+Number of cones: 2
+i: 0 height: 23.414 x: 184 y: 286 ratio: 0.251605
+i: 0 height: 23.414 x: 437 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: 0.0874211
+Number of cones: 2
+i: 0 height: 38.5625 x: 385 y: 310 ratio: 0.32345
+i: 1 height: 22.5229 x: 238 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.107663
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0430769
+Received right sensor voltage: 0.00791209
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 19.8496 x: 137 y: 280 ratio: 0.234548
+i: 0 height: 65.2953 x: 587 y: 323 ratio: 0.364782
+blueOnLeft: 1
+Received left sensor voltage:  Ground Steering Request: 0.0468811
+0.00527472
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 7.34615
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 61.7309 x: 23 y: 323 ratio: 0.364782
+i: 1 height: 26.9784 x: 273 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.125205
+Number of cones: 3
+i: 0 height: 33.216 x: 449 y: 299 ratio: 0.289803
+i: 0 height: 44.8002 x: 0 y: 309 ratio: 0.320341
+i: 1 height: 29.6516 x: 55 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0667304
+Number of cones: 2
+i: 0 height: 45.2457 x: 479 y: 321 ratio: 0.358313
+i: 1 height: 25.1962 x: 300 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0910973
+Received left sensor voltage: 0.00483516
+Number of cones: 2
+i: 0 height: 26.5328 x: 163 y: 287 ratio: 0.254483
+i: 0 height: 26.0873 x: 439 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: 0.0441411
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.010989
+Number of cones: 1
+i: 0 height: 21.6318 x: 143 y: 278 ratio: 0.228942
+blueOnLeft: 1
+ Ground Steering Request: 0.0369462
+Received left sensor voltage: 0.0632967
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 7.41868
+Received left sensor voltage: 0.0826374
+Received right sensor voltage: 0.0276923
+Number of cones: 3
+i: 0 height: 38.5625 x: 467 y: 303 ratio: 0.301898
+i: 1 height: 23.8595 x: 336 y: 292 ratio: 0.269024
+i: 0 height: 33.216 x: 39 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.209541
+Number of cones: 1
+i: 0 height: 32.3249 x: 239 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: -0.0965262
+Number of cones: 3
+i: 0 height: 58.1666 x: 591 y: 335 ratio: 0.404442
+i: 1 height: 28.315 x: 357 y: 293 ratio: 0.271962
+i: 0 height: 25.1962 x: 0 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: 0.0443462
+Received left sensor voltage: 0.00835165
+Number of cones: 2
+i: 0 height: 30.5427 x: 107 y: 296 ratio: 0.280837
+i: 0 height: 30.5427 x: 415 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: 0.0834861
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 24.3051 x: 151 y: 282 ratio: 0.240193
+i: 0 height: 23.414 x: 447 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: 0.0467879
+Received right sensor voltage: 0.00879121
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00923077
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00747253
+Number of cones: 2
+i: 0 height: 37.6715 x: 183 y: 303 ratio: 0.301898
+i: 1 height: 21.6318 x: 305 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: -0.110928
+Received right sensor voltage: 0.00615385
+Number of cones: 4
+i: 0 height: 45.6913 x: 495 y: 317 ratio: 0.345495
+i: 1 height: 26.5328 x: 344 y: 294 ratio: 0.27491
+i: 0 height: 36.7804 x: 21 y: 289 ratio: 0.260269
+i: 1 height: 19.8496 x: 0 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.0821514
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 34.9982 x: 63 y: 297 ratio: 0.283816
+i: 0 height: 33.216 x: 409 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: 0.0592341
+Number of cones: 2
+i: 0 height: 33.216 x: 399 y: 300 ratio: 0.292812
+i: 0 height: 26.9784 x: 0 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0682612
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 28.7605 x: 139 y: 288 ratio: 0.257371
+i: 0 height: 26.9784 x: 465 y: 295 ratio: 0.277869
+blueOnLeft: 1
+ Ground Steering Request: 0.0461128
+Received right sensor voltage: 0.00879121
+Received right sensor voltage: 0.0334066
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0945055
+Received right sensor voltage: 0.0246154
+Number of cones: 4
+i: 0 height: 29.2061 x: 621 y: 293 ratio: 0.271962
+i: 0 height: 46.5824 x: 95 y: 309 ratio: 0.320341
+i: 1 height: 25.1962 x: 255 y: 293 ratio: 0.271962
+i: 2 height: 18.0674 x: 303 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: -0.0583319
+Number of cones: 3
+i: 0 height: 52.82 x: 522 y: 319 ratio: 0.351884
+i: 1 height: 30.5427 x: 349 y: 298 ratio: 0.286804
+i: 0 height: 46.5824 x: 0 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0513214
+Number of cones: 2
+i: 0 height: 41.2358 x: 19 y: 302 ratio: 0.298859
+i: 0 height: 37.6715 x: 407 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: 0.0608441
+Received right sensor voltage: 7.40901
+Received left sensor voltage: 0.010989
+Number of cones: 2
+i: 0 height: 38.5625 x: 431 y: 303 ratio: 0.301898
+i: 0 height: 30.5427 x: 0 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0645855
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 31.4338 x: 119 y: 291 ratio: 0.266095
+i: 0 height: 30.5427 x: 481 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: 0.0549996
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0162637
+Received right sensor voltage: 7.31231
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0171429
+Received left sensor voltage: 0.0232967
+Received right sensor voltage: 0.0162637
+Received right sensor voltage: 0.021978
+Number of cones: 3
+i: 0 height: 31.4338 x: 579 y: 294 ratio: 0.27491
+i: 0 height: 58.1666 x: 0 y: 319 ratio: 0.351884
+i: 1 height: 26.9784 x: 193 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: -0.143717
+Received right sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 46.5824 x: 467 y: 307 ratio: 0.314153
+blueOnLeft: 0
+ Ground Steering Request: 0.0832535
+Number of cones: 3
+i: 0 height: 56.3844 x: 555 y: 330 ratio: 0.387741
+i: 1 height: 32.7704 x: 352 y: 300 ratio: 0.292812
+i: 2 height: 21.1863 x: 244 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.185506
+Number of cones: 2
+i: 0 height: 20.7407 x: 99 y: 283 ratio: 0.243031
+i: 0 height: 44.8002 x: 407 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: 0.112895
+Number of cones: 2
+i: 0 height: 37.6715 x: 95 y: 295 ratio: 0.277869
+i: 0 height: 36.7804 x: 501 y: 301 ratio: 0.29583
+blueOnLeft: 1
+ Ground Steering Request: 0.0506322
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 33.6615 x: 557 y: 294 ratio: 0.27491
+i: 0 height: 31.4338 x: 131 y: 293 ratio: 0.271962
+i: 1 height: 19.8496 x: 211 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: -0.0683203
+Received right sensor voltage: 0.0734066
+Number of cones: 3
+i: 0 height: 63.9587 x: 601 y: 341 ratio: 0.424814
+i: 1 height: 34.9982 x: 359 y: 301 ratio: 0.29583
+i: 2 height: 21.6318 x: 243 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.169133
+Number of cones: 1
+i: 0 height: 50.1467 x: 510 y: 319 ratio: 0.351884
+blueOnLeft: 0
+ Ground Steering Request: 0.0629456
+Number of cones: 3
+i: 0 height: 62.622 x: 73 y: 375 ratio: 0.547088
+i: 1 height: 44.8002 x: 71 y: 304 ratio: 0.304946
+i: 0 height: 42.1269 x: 523 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: 0.0483095
+Number of cones: 2
+i: 0 height: 22.9684 x: 84 y: 283 ratio: 0.243031
+i: 0 height: 51.0378 x: 425 y: 319 ratio: 0.351884
+blueOnLeft: 1
+ Ground Steering Request: 0.062176
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0167033
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.0101099
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.0628571
+Number of cones: 3
+i: 0 height: 36.7804 x: 556 y: 297 ratio: 0.283816
+i: 0 height: 36.3348 x: 83 y: 295 ratio: 0.277869
+i: 1 height: 22.5229 x: 177 y: 277 ratio: 0.226155
+blueOnLeft: 0
+ Ground Steering Request: -0.050372
+Received right sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 38.5625 x: 367 y: 302 ratio: 0.298859
+i: 1 height: 21.6318 x: 243 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.117271
+Number of cones: 2
+i: 0 height: 67.523 x: 581 y: 344 ratio: 0.435136
+i: 1 height: 19.8496 x: 197 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.19124
+Number of cones: 3
+i: 0 height: 23.414 x: 137 y: 290 ratio: 0.263177
+i: 0 height: 66.1864 x: 529 y: 335 ratio: 0.404442
+i: 1 height: 23.8595 x: 391 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: 0.0663444
+Received right sensor voltage: 7.39934
+Number of cones: 3
+i: 0 height: 52.82 x: 43 y: 314 ratio: 0.335987
+i: 1 height: 23.414 x: 199 y: 293 ratio: 0.271962
+i: 0 height: 51.9289 x: 559 y: 323 ratio: 0.364782
+blueOnLeft: 1
+ Ground Steering Request: -0.165314
+Received left sensor voltage: 0.0101099
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0175824
+Received right sensor voltage: 0.00923077
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0123077
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0338462
+Number of cones: 4
+i: 0 height: 42.1269 x: 566 y: 303 ratio: 0.301898
+i: 1 height: 20.2952 x: 435 y: 285 ratio: 0.248737
+i: 0 height: 43.9091 x: 31 y: 303 ratio: 0.301898
+i: 1 height: 25.1962 x: 151 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: 0.0468986
+Number of cones: 2
+i: 0 height: 40.7903 x: 378 y: 303 ratio: 0.301898
+i: 1 height: 22.0773 x: 244 y: 284 ratio: 0.245879
+blueOnLeft: 0
+ Ground Steering Request: 0.118304
+Number of cones: 3
+i: 0 height: 66.1864 x: 0 y: 329 ratio: 0.384431
+i: 1 height: 26.9784 x: 193 y: 297 ratio: 0.283816
+i: 0 height: 63.5131 x: 595 y: 335 ratio: 0.404442
+blueOnLeft: 1
+ Ground Steering Request: -0.150897
+Number of cones: 3
+i: 0 height: 62.1765 x: 0 y: 321 ratio: 0.358313
+i: 1 height: 23.8595 x: 207 y: 290 ratio: 0.263177
+i: 0 height: 26.9784 x: 479 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.0339397
+Number of cones: 0
+blueOnLeft: 0
+ Ground Steering Request: 0.12642
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.0101099
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00615385
+Number of cones: 5
+i: 0 height: 43.4636 x: 589 y: 311 ratio: 0.326569
+i: 1 height: 23.414 x: 435 y: 287 ratio: 0.254483
+i: 0 height: 51.0378 x: 0 y: 345 ratio: 0.438597
+i: 1 height: 28.7605 x: 125 y: 287 ratio: 0.254483
+i: 2 height: 20.7407 x: 143 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.0494664
+Received right sensor voltage: 0.00703297
+Number of cones: 2
+i: 0 height: 48.3646 x: 405 y: 309 ratio: 0.320341
+i: 1 height: 23.414 x: 252 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.109181
+Number of cones: 1
+i: 0 height: 29.6516 x: 187 y: 297 ratio: 0.283816
+blueOnLeft: 1
+ Ground Steering Request: -0.0594483
+Number of cones: 3
+i: 0 height: 27.4239 x: 218 y: 290 ratio: 0.263177
+i: 0 height: 33.216 x: 519 y: 303 ratio: 0.301898
+i: 1 height: 18.9585 x: 457 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.0686125
+Number of cones: 1
+i: 0 height: 41.2358 x: 420 y: 323 ratio: 0.364782
+blueOnLeft: 0
+ Ground Steering Request: 0.161023
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00967033
+Received right sensor voltage: 0.0162637
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0167033
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00835165
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Number of cones: 4
+i: 0 height: 48.8101 x: 615 y: 317 ratio: 0.345495
+i: 1 height: 26.0873 x: 438 y: 289 ratio: 0.260269
+i: 0 height: 32.3249 x: 97 y: 281 ratio: 0.237365
+i: 1 height: 22.5229 x: 123 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0474776
+Received right sensor voltage: 0.0175824
+Number of cones: 2
+i: 0 height: 48.8101 x: 437 y: 319 ratio: 0.351884
+i: 1 height: 26.5328 x: 262 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.131392
+Number of cones: 3
+i: 0 height: 31.4338 x: 207 y: 292 ratio: 0.269024
+i: 0 height: 36.7804 x: 539 y: 303 ratio: 0.301898
+i: 1 height: 20.7407 x: 463 y: 283 ratio: 0.243031
+blueOnLeft: 1
+ Ground Steering Request: -0.158416
+Number of cones: 1
+i: 0 height: 51.9289 x: 521 y: 339 ratio: 0.417983
+blueOnLeft: 0
+ Ground Steering Request: 0.0460379
+Number of cones: 2
+i: 0 height: 30.5427 x: 180 y: 300 ratio: 0.292812
+i: 0 height: 32.3249 x: 467 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.142961
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0725275
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 7.25912
+Number of cones: 3
+i: 0 height: 28.315 x: 439 y: 292 ratio: 0.269024
+i: 0 height: 35.8893 x: 61 y: 299 ratio: 0.289803
+i: 1 height: 25.1962 x: 99 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0509642
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 60.8398 x: 478 y: 331 ratio: 0.391062
+i: 1 height: 30.5427 x: 274 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.0925346
+Number of cones: 2
+i: 0 height: 32.3249 x: 173 y: 301 ratio: 0.29583
+i: 0 height: 34.9982 x: 481 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.0500055
+Number of cones: 3
+i: 0 height: 35.8893 x: 191 y: 295 ratio: 0.277869
+i: 0 height: 42.1269 x: 559 y: 307 ratio: 0.314153
+i: 1 height: 21.6318 x: 465 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 3
+i: 0 height: 28.7605 x: 399 y: 301 ratio: 0.29583
+i: 0 height: 37.6715 x: 19 y: 283 ratio: 0.243031
+i: 1 height: 19.8496 x: 5 y: 279 ratio: 0.23174
+blueOnLeft: 0
+ Ground Steering Request: 0.0659386
+Received left sensor voltage: 0.0127473
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0153846
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.00791209
+Received right sensor voltage: 0.0175824
+Received left sensor voltage: 7.41385
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0175824
+Number of cones: 3
+i: 0 height: 31.4338 x: 443 y: 296 ratio: 0.280837
+i: 0 height: 43.9091 x: 19 y: 303 ratio: 0.301898
+i: 1 height: 27.8694 x: 73 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.0664819
+Received left sensor voltage: 0.00615385
+Number of cones: 4
+i: 0 height: 37.6715 x: 518 y: 315 ratio: 0.339146
+i: 0 height: 44.8002 x: 101 y: 287 ratio: 0.254483
+i: 1 height: 21.6318 x: 95 y: 281 ratio: 0.237365
+i: 2 height: 14.5031 x: 0 y: 273 ratio: 0.215105
+blueOnLeft: 0
+ Ground Steering Request: 0.0397899
+Number of cones: 3
+i: 0 height: 74.2062 x: 547 y: 355 ratio: 0.473756
+i: 1 height: 59.9488 x: 560 y: 369 ratio: 0.524667
+i: 2 height: 34.1071 x: 292 y: 296 ratio: 0.280837
+blueOnLeft: 0
+ Ground Steering Request: 0.0763947
+Number of cones: 2
+i: 0 height: 34.1071 x: 161 y: 300 ratio: 0.292812
+i: 0 height: 34.9982 x: 497 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.133156
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 38.5625 x: 124 y: 297 ratio: 0.283816
+i: 0 height: 44.8002 x: 527 y: 307 ratio: 0.314153
+i: 1 height: 21.6318 x: 427 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: 0.0539579
+Received left sensor voltage: 0.0720879
+Received left sensor voltage: 0.0149451
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 34.1071 x: 445 y: 299 ratio: 0.289803
+i: 1 height: 22.5229 x: 319 y: 288 ratio: 0.257371
+i: 0 height: 31.4338 x: 31 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.122906
+Received left sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 38.5625 x: 317 y: 301 ratio: 0.29583
+blueOnLeft: 0
+ Ground Steering Request: 0.203895
+Number of cones: 4
+i: 0 height: 28.315 x: 484 y: 301 ratio: 0.29583
+i: 0 height: 54.6022 x: 159 y: 295 ratio: 0.277869
+i: 1 height: 38.5625 x: 182 y: 323 ratio: 0.364782
+i: 2 height: 24.3051 x: 159 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: -0.0532516
+Number of cones: 2
+i: 0 height: 35.8893 x: 145 y: 296 ratio: 0.280837
+i: 0 height: 35.8893 x: 513 y: 307 ratio: 0.314153
+blueOnLeft: 1
+ Ground Steering Request: -0.0481307
+Number of cones: 3
+i: 0 height: 44.8002 x: 65 y: 301 ratio: 0.29583
+i: 0 height: 46.5824 x: 513 y: 309 ratio: 0.320341
+i: 1 height: 20.7407 x: 407 y: 277 ratio: 0.226155
+blueOnLeft: 1
+ Ground Steering Request: 0.0546655
+Received right sensor voltage: 0.00703297
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00967033
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0725275
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.0540659
+Number of cones: 3
+i: 0 height: 40.3447 x: 457 y: 306 ratio: 0.311074
+i: 1 height: 24.7506 x: 317 y: 291 ratio: 0.266095
+i: 0 height: 34.1071 x: 7 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.102369
+Received left sensor voltage: 7.43319
+Received left sensor voltage: 0.00615385
+Number of cones: 1
+i: 0 height: 43.9091 x: 337 y: 305 ratio: 0.308005
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 5
+i: 0 height: 33.6615 x: 541 y: 302 ratio: 0.298859
+i: 1 height: 22.5229 x: 418 y: 290 ratio: 0.263177
+i: 0 height: 57.2755 x: 171 y: 335 ratio: 0.404442
+i: 1 height: 35.8893 x: 194 y: 301 ratio: 0.29583
+i: 2 height: 26.9784 x: 177 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: -0.0605195
+Number of cones: 3
+i: 0 height: 42.1269 x: 9 y: 303 ratio: 0.301898
+i: 0 height: 50.1467 x: 519 y: 311 ratio: 0.326569
+i: 1 height: 20.7407 x: 399 y: 275 ratio: 0.220609
+blueOnLeft: 1
+ Ground Steering Request: 0.063397
+Received left sensor voltage: 7.32681
+Number of cones: 2
+i: 0 height: 38.5625 x: 122 y: 299 ratio: 0.289803
+i: 0 height: 39.4536 x: 531 y: 305 ratio: 0.308005
+blueOnLeft: 1
+ Ground Steering Request: -0.046435
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0263736
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00791209
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 45.6913 x: 489 y: 316 ratio: 0.342316
+i: 1 height: 27.8694 x: 328 y: 294 ratio: 0.27491
+i: 0 height: 40.3447 x: 0 y: 287 ratio: 0.254483
+i: 1 height: 34.1071 x: 0 y: 310 ratio: 0.32345
+blueOnLeft: 0
+ Ground Steering Request: 0.0742999
+Received left sensor voltage: 0.0171429
+Number of cones: 4
+i: 0 height: 40.3447 x: 579 y: 305 ratio: 0.308005
+i: 1 height: 24.3051 x: 434 y: 289 ratio: 0.260269
+i: 0 height: 79.1072 x: 127 y: 363 ratio: 0.502607
+i: 1 height: 41.2358 x: 171 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: -0.0544806
+Number of cones: 2
+i: 0 height: 48.3646 x: 368 y: 313 ratio: 0.332838
+i: 1 height: 16.7308 x: 110 y: 278 ratio: 0.228942
+blueOnLeft: 0
+ Ground Steering Request: 0.161029
+Number of cones: 2
+i: 0 height: 44.8002 x: 95 y: 301 ratio: 0.29583
+i: 0 height: 45.6913 x: 559 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.0467271
+Number of cones: 3
+i: 0 height: 21.1863 x: 163 y: 283 ratio: 0.243031
+i: 0 height: 57.2755 x: 535 y: 315 ratio: 0.339146
+i: 1 height: 21.6318 x: 395 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: 0.154176
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0325275
+Received right sensor voltage: 0.0936264
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00879121
+Number of cones: 2
+i: 0 height: 52.82 x: 531 y: 322 ratio: 0.361543
+i: 1 height: 30.5427 x: 344 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.0989713
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.010989
+Received left sensor voltage: 0.00923077
+Number of cones: 2
+i: 0 height: 54.6022 x: 63 y: 307 ratio: 0.314153
+i: 0 height: 52.82 x: 593 y: 317 ratio: 0.345495
+blueOnLeft: 1
+ Ground Steering Request: -0.047798
+Number of cones: 1
+i: 0 height: 56.3844 x: 421 y: 327 ratio: 0.377842
+blueOnLeft: 0
+ Ground Steering Request: 0.0934787
+Number of cones: 3
+i: 0 height: 23.414 x: 146 y: 285 ratio: 0.248737
+i: 0 height: 67.9686 x: 559 y: 327 ratio: 0.377842
+i: 1 height: 23.414 x: 391 y: 277 ratio: 0.226155
+blueOnLeft: 1
+ Ground Steering Request: 0.102686
+Number of cones: 4
+i: 0 height: 44.8002 x: 623 y: 309 ratio: 0.320341
+i: 1 height: 26.0873 x: 449 y: 291 ratio: 0.266095
+i: 0 height: 51.9289 x: 151 y: 303 ratio: 0.301898
+i: 1 height: 21.6318 x: 103 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: -0.0311068
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.0232967
+Received left sensor voltage: 0.00659341
+Number of cones: 3
+i: 0 height: 59.0577 x: 593 y: 335 ratio: 0.404442
+i: 1 height: 33.216 x: 366 y: 303 ratio: 0.301898
+i: 2 height: 21.6318 x: 251 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.173145
+Received left sensor voltage: 0.0628571
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 7.40418
+Received left sensor voltage: 0.00615385
+Number of cones: 4
+i: 0 height: 29.2061 x: 471 y: 297 ratio: 0.283816
+i: 0 height: 62.622 x: 123 y: 299 ratio: 0.289803
+i: 1 height: 23.414 x: 87 y: 286 ratio: 0.251605
+i: 2 height: 18.9585 x: 55 y: 279 ratio: 0.23174
+blueOnLeft: 0
+ Ground Steering Request: 0.204439
+Number of cones: 1
+i: 0 height: 75.5429 x: 518 y: 367 ratio: 0.517273
+blueOnLeft: 0
+ Ground Steering Request: 0.0203651
+Number of cones: 2
+i: 0 height: 25.1962 x: 173 y: 290 ratio: 0.263177
+i: 0 height: 26.0873 x: 427 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: 0.0593616
+Number of cones: 3
+i: 0 height: 59.9488 x: 25 y: 317 ratio: 0.345495
+i: 1 height: 20.7407 x: 223 y: 285 ratio: 0.248737
+i: 0 height: 21.6318 x: 463 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.0436337
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.010989
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.0228571
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0149451
+Received left sensor voltage: 0.018022
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.00835165
+Number of cones: 1
+i: 0 height: 35.8893 x: 397 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.179624
+Received left sensor voltage: 0.0171429
+Number of cones: 3
+i: 0 height: 62.622 x: 0 y: 333 ratio: 0.397732
+i: 1 height: 22.9684 x: 219 y: 285 ratio: 0.248737
+i: 0 height: 24.3051 x: 478 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0946533
+Number of cones: 0
+blueOnLeft: 0
+ Ground Steering Request: 0.059999
+Number of cones: 3
+i: 0 height: 27.8694 x: 181 y: 292 ratio: 0.269024
+i: 0 height: 29.6516 x: 471 y: 289 ratio: 0.260269
+i: 1 height: 21.6318 x: 453 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.0422661
+Number of cones: 4
+i: 0 height: 33.6615 x: 511 y: 300 ratio: 0.292812
+i: 0 height: 80.4439 x: 87 y: 309 ratio: 0.320341
+i: 1 height: 26.9784 x: 83 y: 287 ratio: 0.254483
+i: 2 height: 21.6318 x: 53 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: 0.130186
+Received right sensor voltage: 0.0281319
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.105934
+Received right sensor voltage: 0.00483516
+Received left sensor voltage: 0.00703297
+Received left sensor voltage: 0.0738462
+Number of cones: 2
+i: 0 height: 39.8992 x: 436 y: 305 ratio: 0.308005
+i: 0 height: 31.4338 x: 0 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0763744
+Received left sensor voltage: 0.00571429
+Number of cones: 0
+blueOnLeft: 0
+ Ground Steering Request: 0.0984605
+Number of cones: 2
+i: 0 height: 26.5328 x: 213 y: 287 ratio: 0.254483
+i: 0 height: 26.9784 x: 493 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0598193
+Number of cones: 3
+i: 0 height: 31.4338 x: 172 y: 296 ratio: 0.280837
+i: 0 height: 32.7704 x: 483 y: 303 ratio: 0.301898
+i: 1 height: 23.414 x: 461 y: 292 ratio: 0.269024
+blueOnLeft: 1
+ Ground Steering Request: -0.0474419
+Number of cones: 6
+i: 0 height: 42.1269 x: 553 y: 303 ratio: 0.301898
+i: 1 height: 24.3051 x: 381 y: 294 ratio: 0.27491
+i: 0 height: 69.7508 x: 51 y: 396 ratio: 0.628412
+i: 1 height: 57.2755 x: 103 y: 319 ratio: 0.351884
+i: 2 height: 29.6516 x: 71 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.143422
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00659341
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0167033
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00967033
+Received left sensor voltage: 0.00703297
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 42.1269 x: 484 y: 307 ratio: 0.314153
+i: 1 height: 22.0773 x: 319 y: 286 ratio: 0.251605
+i: 0 height: 32.7704 x: 0 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: 0.0782262
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0553846
+Number of cones: 2
+i: 0 height: 29.2061 x: 207 y: 289 ratio: 0.260269
+i: 0 height: 30.5427 x: 513 y: 295 ratio: 0.277869
+blueOnLeft: 1
+ Ground Steering Request: -0.0645819
+Number of cones: 4
+i: 0 height: 52.82 x: 527 y: 327 ratio: 0.377842
+i: 1 height: 25.6417 x: 341 y: 295 ratio: 0.277869
+i: 0 height: 33.6615 x: 0 y: 275 ratio: 0.220609
+blueOnLeft: 0
+ Ground Steering Request: 0.0618385
+Number of cones: 5
+i: 0 height: 45.6913 x: 596 y: 313 ratio: 0.332838
+i: 1 height: 27.8694 x: 392 y: 293 ratio: 0.271962
+i: 0 height: 76.8795 x: 57 y: 335 ratio: 0.404442
+i: 1 height: 34.1071 x: 47 y: 301 ratio: 0.29583
+i: 2 height: 26.9784 x: 23 y: 295 ratio: 0.277869
+blueOnLeft: 0
+ Ground Steering Request: 0.0901328
+Number of cones: 3
+i: 0 height: 34.9982 x: 159 y: 301 ratio: 0.29583
+i: 0 height: 36.7804 x: 497 y: 307 ratio: 0.314153
+i: 1 height: 25.1962 x: 471 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.046559
+Received right sensor voltage: 0.00703297
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0167033
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0430769
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 7.32681
+Number of cones: 4
+i: 0 height: 47.0279 x: 537 y: 319 ratio: 0.351884
+i: 1 height: 25.1962 x: 343 y: 289 ratio: 0.260269
+i: 0 height: 37.6715 x: 0 y: 311 ratio: 0.326569
+i: 1 height: 23.414 x: 0 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.0692137
+Received left sensor voltage: 0.00967033
+Received left sensor voltage: 0.0197802
+Number of cones: 7
+i: 0 height: 31.4338 x: 408 y: 297 ratio: 0.283816
+i: 1 height: 21.6318 x: 269 y: 288 ratio: 0.257371
+i: 0 height: 75.5429 x: 0 y: 291 ratio: 0.266095
+i: 3 height: 62.622 x: 31 y: 369 ratio: 0.524667
+i: 4 height: 31.8794 x: 22 y: 311 ratio: 0.326569
+blueOnLeft: 0
+ Ground Steering Request: 0.140076
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 26.9784 x: 390 y: 294 ratio: 0.27491
+i: 0 height: 34.1071 x: 47 y: 283 ratio: 0.243031
+blueOnLeft: 0
+ Ground Steering Request: 0.182729
+Number of cones: 2
+i: 0 height: 34.1071 x: 195 y: 292 ratio: 0.269024
+i: 0 height: 34.1071 x: 533 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.0584385
+Number of cones: 4
+i: 0 height: 38.5625 x: 145 y: 303 ratio: 0.301898
+i: 1 height: 22.5229 x: 226 y: 289 ratio: 0.260269
+i: 0 height: 41.2358 x: 515 y: 309 ratio: 0.320341
+i: 1 height: 27.8694 x: 483 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0481657
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 7.41385
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 58.1666 x: 608 y: 333 ratio: 0.397732
+i: 1 height: 28.7605 x: 367 y: 291 ratio: 0.266095
+i: 0 height: 26.0873 x: 0 y: 281 ratio: 0.237365
+blueOnLeft: 0
+ Ground Steering Request: 0.0653985
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00483516
+Received left sensor voltage: 0.0241758
+Number of cones: 2
+i: 0 height: 30.5427 x: 413 y: 293 ratio: 0.271962
+i: 0 height: 37.6715 x: 31 y: 279 ratio: 0.23174
+blueOnLeft: 0
+ Ground Steering Request: 0.216975
+Number of cones: 3
+i: 0 height: 34.9982 x: 435 y: 299 ratio: 0.289803
+i: 1 height: 22.5229 x: 277 y: 287 ratio: 0.254483
+i: 0 height: 46.5824 x: 0 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: 0.057823
+Received right sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 38.5625 x: 184 y: 301 ratio: 0.29583
+i: 0 height: 42.1269 x: 559 y: 303 ratio: 0.301898
+blueOnLeft: 1
+ Ground Steering Request: -0.0562228
+Number of cones: 4
+i: 0 height: 43.018 x: 129 y: 306 ratio: 0.311074
+i: 1 height: 24.3051 x: 223 y: 291 ratio: 0.266095
+i: 0 height: 44.8002 x: 541 y: 315 ratio: 0.339146
+i: 1 height: 30.5427 x: 497 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.0528689
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0149451
+Received right sensor voltage: 0.0426374
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 33.216 x: 395 y: 297 ratio: 0.283816
+i: 0 height: 28.7605 x: 0 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0759168
+Received left sensor voltage: 0.00747253
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.0162637
+Number of cones: 3
+i: 0 height: 44.8002 x: 167 y: 301 ratio: 0.29583
+i: 0 height: 49.2557 x: 593 y: 315 ratio: 0.339146
+i: 1 height: 21.6318 x: 465 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0575205
+Number of cones: 4
+i: 0 height: 48.3646 x: 106 y: 313 ratio: 0.332838
+i: 1 height: 26.0873 x: 218 y: 293 ratio: 0.271962
+i: 0 height: 51.9289 x: 571 y: 323 ratio: 0.364782
+i: 1 height: 33.216 x: 515 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.142643
+Number of cones: 5
+i: 0 height: 35.8893 x: 425 y: 299 ratio: 0.289803
+i: 1 height: 23.414 x: 320 y: 290 ratio: 0.263177
+i: 0 height: 45.6913 x: 0 y: 283 ratio: 0.243031
+i: 1 height: 40.7903 x: 21 y: 321 ratio: 0.358313
+i: 2 height: 25.6417 x: 14 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0861013
+Received left sensor voltage: 0.0105494
+Number of cones: 2
+i: 0 height: 40.3447 x: 455 y: 302 ratio: 0.298859
+i: 1 height: 25.1962 x: 280 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.129374
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.032967
+Received right sensor voltage: 0.00703297
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0162637
+Number of cones: 2
+i: 0 height: 37.6715 x: 430 y: 301 ratio: 0.29583
+i: 0 height: 31.4338 x: 0 y: 288 ratio: 0.257371
+blueOnLeft: 0
+ Ground Steering Request: 0.154121
+Received left sensor voltage: 0.00703297
+Received left sensor voltage: 0.0118681
+Received right sensor voltage: 7.42352
+Number of cones: 3
+i: 0 height: 43.018 x: 479 y: 313 ratio: 0.332838
+i: 1 height: 28.315 x: 280 y: 297 ratio: 0.283816
+i: 2 height: 19.4041 x: 147 y: 284 ratio: 0.245879
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 51.0378 x: 148 y: 307 ratio: 0.314153
+i: 1 height: 20.7407 x: 246 y: 285 ratio: 0.248737
+i: 0 height: 23.414 x: 479 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.0583317
+Number of cones: 3
+i: 0 height: 42.1269 x: 437 y: 306 ratio: 0.311074
+i: 1 height: 26.9784 x: 319 y: 293 ratio: 0.271962
+i: 0 height: 33.216 x: 0 y: 313 ratio: 0.332838
+blueOnLeft: 0
+ Ground Steering Request: 0.0838776
+Received right sensor voltage: 0.00747253
+Number of cones: 5
+i: 0 height: 53.7111 x: 79 y: 316 ratio: 0.342316
+i: 1 height: 26.5328 x: 213 y: 292 ratio: 0.269024
+i: 0 height: 58.1666 x: 607 y: 327 ratio: 0.377842
+i: 1 height: 49.7012 x: 635 y: 351 ratio: 0.459572
+i: 2 height: 34.9982 x: 531 y: 295 ratio: 0.277869
+blueOnLeft: 1
+ Ground Steering Request: -0.0711642
+Received right sensor voltage: 7.33648
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0131868
+Number of cones: 2
+i: 0 height: 43.9091 x: 473 y: 308 ratio: 0.317242
+i: 0 height: 36.7804 x: 0 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.148762
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 50.1467 x: 512 y: 320 ratio: 0.355094
+i: 1 height: 32.7704 x: 281 y: 295 ratio: 0.277869
+i: 2 height: 20.7407 x: 139 y: 282 ratio: 0.240193
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 56.3844 x: 125 y: 313 ratio: 0.332838
+i: 1 height: 21.1863 x: 245 y: 284 ratio: 0.245879
+i: 0 height: 23.414 x: 493 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.0624169
+Received left sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 51.9289 x: 453 y: 314 ratio: 0.335987
+i: 1 height: 28.7605 x: 319 y: 296 ratio: 0.280837
+blueOnLeft: 0
+ Ground Steering Request: 0.151446
+Received right sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 54.6022 x: 41 y: 323 ratio: 0.364782
+i: 1 height: 27.8694 x: 205 y: 292 ratio: 0.269024
+i: 0 height: 35.8893 x: 547 y: 291 ratio: 0.266095
+i: 1 height: 21.6318 x: 585 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.0561898
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0105494
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 47.919 x: 533 y: 328 ratio: 0.381132
+i: 0 height: 36.7804 x: 0 y: 299 ratio: 0.289803
+blueOnLeft: 0
+ Ground Steering Request: 0.0584892
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.0158242
+Number of cones: 3
+i: 0 height: 59.9488 x: 93 y: 326 ratio: 0.374562
+i: 1 height: 23.414 x: 242 y: 286 ratio: 0.251605
+i: 0 height: 26.0873 x: 509 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.0571322
+Received right sensor voltage: 0.0443956
+Number of cones: 3
+i: 0 height: 61.7309 x: 583 y: 336 ratio: 0.407812
+i: 1 height: 30.5427 x: 299 y: 297 ratio: 0.283816
+i: 2 height: 22.5229 x: 145 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 51.9289 x: 476 y: 322 ratio: 0.361543
+i: 1 height: 32.3249 x: 319 y: 297 ratio: 0.283816
+i: 2 height: 21.6318 x: 227 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 30.5427 x: 155 y: 297 ratio: 0.283816
+i: 0 height: 37.6715 x: 517 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: 0.136032
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.0237363
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0136264
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00659341
+Number of cones: 1
+i: 0 height: 61.7309 x: 613 y: 347 ratio: 0.445548
+blueOnLeft: 0
+ Ground Steering Request: -0.043206
+Received right sensor voltage: 7.38483
+Received right sensor voltage: 0.0162637
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.00659341
+Number of cones: 3
+i: 0 height: 61.2854 x: 508 y: 335 ratio: 0.404442
+i: 1 height: 34.9982 x: 321 y: 297 ratio: 0.283816
+i: 2 height: 23.414 x: 223 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 37.6715 x: 362 y: 303 ratio: 0.301898
+i: 1 height: 23.8595 x: 199 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.13283
+Number of cones: 6
+i: 0 height: 32.3249 x: 107 y: 293 ratio: 0.271962
+i: 1 height: 21.6318 x: 203 y: 289 ratio: 0.260269
+i: 0 height: 40.3447 x: 523 y: 305 ratio: 0.308005
+i: 1 height: 26.0873 x: 503 y: 289 ratio: 0.260269
+i: 2 height: 19.8496 x: 541 y: 283 ratio: 0.243031
+blueOnLeft: 1
+ Ground Steering Request: -0.0597545
+Number of cones: 4
+i: 0 height: 71.533 x: 43 y: 335 ratio: 0.404442
+i: 1 height: 26.0873 x: 239 y: 287 ratio: 0.254483
+i: 0 height: 29.6516 x: 529 y: 295 ratio: 0.277869
+i: 1 height: 18.0674 x: 451 y: 277 ratio: 0.226155
+blueOnLeft: 1
+ Ground Steering Request: -0.0476658
+Received left sensor voltage: 0.0105494
+Received left sensor voltage: 0.0114286
+Received right sensor voltage: 0.0716484
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0808791
+Received right sensor voltage: 0.00615385
+Number of cones: 0
+blueOnLeft: 0
+ Ground Steering Request: -0.0433759
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00527472
+Number of cones: 4
+i: 0 height: 73.3151 x: 0 y: 365 ratio: 0.50992
+i: 1 height: 30.5427 x: 233 y: 293 ratio: 0.271962
+i: 0 height: 36.7804 x: 549 y: 303 ratio: 0.301898
+i: 1 height: 19.8496 x: 459 y: 277 ratio: 0.226155
+blueOnLeft: 1
+ Ground Steering Request: -0.0470916
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 75.0973 x: 559 y: 353 ratio: 0.466644
+i: 1 height: 39.4536 x: 329 y: 301 ratio: 0.29583
+i: 2 height: 24.3051 x: 225 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 44.8002 x: 465 y: 319 ratio: 0.351884
+i: 1 height: 26.9784 x: 268 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.129003
+Number of cones: 6
+i: 0 height: 37.6715 x: 69 y: 297 ratio: 0.283816
+i: 1 height: 23.8595 x: 181 y: 290 ratio: 0.263177
+i: 0 height: 46.5824 x: 533 y: 309 ratio: 0.320341
+i: 1 height: 28.315 x: 507 y: 291 ratio: 0.266095
+i: 2 height: 21.6318 x: 543 y: 285 ratio: 0.248737
+blueOnLeft: 1
+ Ground Steering Request: -0.0467097
+Received left sensor voltage: 0.0162637
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0237363
+Received right sensor voltage: 0.0268132
+Received right sensor voltage: 0.00659341
+Number of cones: 1
+i: 0 height: 36.7804 x: 443 y: 319 ratio: 0.351884
+blueOnLeft: 0
+ Ground Steering Request: 0.200664
+Received right sensor voltage: 0.0105494
+Received left sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 45.6913 x: 354 y: 305 ratio: 0.308005
+i: 1 height: 26.0873 x: 241 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.114945
+Number of cones: 1
+i: 0 height: 65.2953 x: 613 y: 351 ratio: 0.459572
+blueOnLeft: 0
+ Ground Steering Request: -0.125569
+Received right sensor voltage: 0.0123077
+Number of cones: 3
+i: 0 height: 34.1071 x: 227 y: 297 ratio: 0.283816
+i: 0 height: 41.2358 x: 573 y: 303 ratio: 0.301898
+i: 1 height: 21.6318 x: 467 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 5
+i: 0 height: 44.8002 x: 21 y: 305 ratio: 0.308005
+i: 1 height: 26.9784 x: 159 y: 287 ratio: 0.254483
+i: 0 height: 53.7111 x: 551 y: 319 ratio: 0.351884
+i: 1 height: 30.5427 x: 511 y: 291 ratio: 0.266095
+i: 2 height: 23.414 x: 547 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.105426
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.0149451
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0457143
+Received left sensor voltage: 0.00483516
+Received right sensor voltage: 0.00703297
+Number of cones: 1
+i: 0 height: 43.018 x: 497 y: 325 ratio: 0.371292
+blueOnLeft: 0
+ Ground Steering Request: 0.0603244
+Received right sensor voltage: 0.00659341
+Number of cones: 3
+i: 0 height: 45.6913 x: 393 y: 315 ratio: 0.339146
+i: 1 height: 29.6516 x: 262 y: 292 ratio: 0.269024
+i: 2 height: 20.2952 x: 162 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.00703297
+Number of cones: 1
+i: 0 height: 55.4933 x: 0 y: 327 ratio: 0.377842
+blueOnLeft: 0
+ Ground Steering Request: 0.130465
+Number of cones: 3
+i: 0 height: 37.6715 x: 215 y: 297 ratio: 0.283816
+i: 0 height: 42.1269 x: 601 y: 307 ratio: 0.314153
+i: 1 height: 20.7407 x: 475 y: 283 ratio: 0.243031
+blueOnLeft: 1
+ Ground Steering Request: -0.0731373
+Received left sensor voltage: 0.00527472
+Number of cones: 4
+i: 0 height: 30.5427 x: 132 y: 292 ratio: 0.269024
+i: 0 height: 64.4042 x: 579 y: 331 ratio: 0.391062
+i: 1 height: 36.7804 x: 521 y: 299 ratio: 0.289803
+i: 2 height: 25.1962 x: 551 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.106338
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0162637
+Received left sensor voltage: 7.33165
+Received right sensor voltage: 0.101099
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0325275
+Received right sensor voltage: 0.0136264
+Number of cones: 1
+i: 0 height: 51.0378 x: 569 y: 333 ratio: 0.397732
+Received right sensor voltage: blueOnLeft: 0
+ Ground Steering Request: 0.024764
+0.00615385
+Received right sensor voltage: 0.0531868
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 42.1269 x: 521 y: 319 ratio: 0.351884
+i: 0 height: 59.9488 x: 27 y: 335 ratio: 0.404442
+i: 1 height: 31.4338 x: 89 y: 311 ratio: 0.326569
+blueOnLeft: 0
+ Ground Steering Request: 0.142391
+Number of cones: 2
+i: 0 height: 41.6814 x: 201 y: 301 ratio: 0.29583
+i: 0 height: 48.3646 x: 625 y: 309 ratio: 0.320341
+blueOnLeft: 1
+ Ground Steering Request: -0.12875
+Number of cones: 3
+i: 0 height: 53.7111 x: 442 y: 323 ratio: 0.364782
+i: 1 height: 32.3249 x: 288 y: 293 ratio: 0.271962
+i: 2 height: 21.6318 x: 183 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.0118681
+Number of cones: 5
+i: 0 height: 34.1071 x: 103 y: 297 ratio: 0.283816
+i: 1 height: 22.9684 x: 213 y: 289 ratio: 0.260269
+i: 0 height: 76.8795 x: 627 y: 393 ratio: 0.616523
+i: 1 height: 39.4536 x: 533 y: 303 ratio: 0.301898
+i: 2 height: 26.9784 x: 559 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.0501045
+Received left sensor voltage: 7.43802
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.00967033
+Received left sensor voltage: 0.00747253
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.00967033
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00659341
+Number of cones: 1
+i: 0 height: 28.315 x: 358 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.150067
+Received right sensor voltage: 0.0105494
+Received right sensor voltage: 0.00967033
+Number of cones: 3
+i: 0 height: 51.9289 x: 575 y: 325 ratio: 0.371292
+i: 0 height: 71.533 x: 0 y: 341 ratio: 0.424814
+i: 1 height: 34.1071 x: 80 y: 307 ratio: 0.314153
+blueOnLeft: 0
+ Ground Steering Request: 0.0840839
+Number of cones: 3
+i: 0 height: 64.8498 x: 511 y: 338 ratio: 0.414583
+i: 1 height: 35.8893 x: 319 y: 297 ratio: 0.283816
+i: 2 height: 22.5229 x: 209 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 3
+i: 0 height: 47.4735 x: 181 y: 304 ratio: 0.304946
+i: 1 height: 20.2952 x: 277 y: 286 ratio: 0.251605
+i: 0 height: 22.5229 x: 495 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.0596389
+Received left sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 39.8992 x: 65 y: 301 ratio: 0.29583
+i: 1 height: 25.6417 x: 195 y: 291 ratio: 0.266095
+i: 2 height: 18.9585 x: 294 y: 283 ratio: 0.243031
+i: 0 height: 47.4735 x: 551 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.0840852
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.0334066
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.0725275
+Number of cones: 2
+i: 0 height: 34.1071 x: 387 y: 301 ratio: 0.29583
+i: 1 height: 22.5229 x: 278 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.158703
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00659341
+Number of cones: 2
+i: 0 height: 29.6516 x: 403 y: 307 ratio: 0.314153
+i: 0 height: 37.6715 x: 51 y: 307 ratio: 0.314153
+blueOnLeft: 0
+ Ground Steering Request: 0.0427146
+Received right sensor voltage: 0.0105494
+Number of cones: 3
+i: 0 height: 77.7706 x: 613 y: 359 ratio: 0.488101
+i: 1 height: 40.3447 x: 360 y: 301 ratio: 0.29583
+i: 2 height: 23.8595 x: 241 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.185653
+Received right sensor voltage: 0.0228571
+Received left sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 49.2557 x: 153 y: 309 ratio: 0.320341
+i: 0 height: 23.414 x: 495 y: 287 ratio: 0.254483
+i: 1 height: 18.0674 x: 475 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.0574977
+Number of cones: 4
+i: 0 height: 44.8002 x: 23 y: 307 ratio: 0.314153
+i: 1 height: 27.8694 x: 179 y: 293 ratio: 0.271962
+i: 2 height: 21.1863 x: 287 y: 287 ratio: 0.254483
+i: 0 height: 54.6022 x: 577 y: 299 ratio: 0.289803
+blueOnLeft: 1
+ Ground Steering Request: -0.195226
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 41.2358 x: 423 y: 307 ratio: 0.314153
+i: 1 height: 26.0873 x: 298 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.185722
+Number of cones: 2
+i: 0 height: 34.1071 x: 421 y: 308 ratio: 0.317242
+i: 0 height: 43.9091 x: 21 y: 315 ratio: 0.339146
+blueOnLeft: 0
+ Ground Steering Request: 0.0581182
+Received right sensor voltage: 0.08
+Number of cones: 2
+i: 0 height: 45.6913 x: 407 y: 305 ratio: 0.308005
+i: 1 height: 26.5328 x: 273 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.103813
+Received left sensor voltage: 7.38
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 7.32681
+Received left sensor voltage: 0.0742857
+Number of cones: 5
+i: 0 height: 61.7309 x: 129 y: 377 ratio: 0.554642
+i: 1 height: 50.1467 x: 121 y: 315 ratio: 0.339146
+i: 2 height: 21.6318 x: 253 y: 287 ratio: 0.254483
+i: 0 height: 23.414 x: 493 y: 287 ratio: 0.254483
+i: 1 height: 18.0674 x: 471 y: 277 ratio: 0.226155
+blueOnLeft: 1
+ Ground Steering Request: -0.050818
+Number of cones: 4
+i: 0 height: 31.4338 x: 159 y: 296 ratio: 0.280837
+i: 1 height: 23.414 x: 280 y: 288 ratio: 0.257371
+i: 0 height: 66.1864 x: 609 y: 303 ratio: 0.301898
+i: 1 height: 44.3546 x: 612 y: 330 ratio: 0.387741
+blueOnLeft: 1
+ Ground Steering Request: -0.0557539
+Received right sensor voltage: 0.00615385
+Received left sensor voltage: 0.032967
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0136264
+Received left sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 50.5923 x: 473 y: 315 ratio: 0.339146
+i: 1 height: 30.0972 x: 321 y: 293 ratio: 0.271962
+blueOnLeft: 0
+ Ground Steering Request: 0.094504
+Received right sensor voltage: 0.00571429
+Number of cones: 1
+i: 0 height: 40.3447 x: 443 y: 312 ratio: 0.329699
+blueOnLeft: 0
+ Ground Steering Request: 0.0593141
+Received left sensor voltage: 0.0193407
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 44.8002 x: 453 y: 317 ratio: 0.345495
+i: 1 height: 28.7605 x: 302 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.200538
+Received left sensor voltage: 0.00571429
+Number of cones: 4
+i: 0 height: 56.3844 x: 81 y: 324 ratio: 0.368032
+i: 1 height: 22.9684 x: 243 y: 290 ratio: 0.263177
+i: 0 height: 25.1962 x: 495 y: 287 ratio: 0.254483
+i: 1 height: 18.9585 x: 473 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.0547648
+Number of cones: 2
+i: 0 height: 34.9982 x: 135 y: 297 ratio: 0.283816
+i: 1 height: 24.7506 x: 271 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.0603663
+Received right sensor voltage: 0.00791209
+Received left sensor voltage: 0.0435165
+Received right sensor voltage: 0.0131868
+Received right sensor voltage: 0.0171429
+Received left sensor voltage: 0.0167033
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 55.9388 x: 540 y: 328 ratio: 0.381132
+i: 1 height: 32.3249 x: 348 y: 295 ratio: 0.277869
+i: 2 height: 21.6318 x: 245 y: 286 ratio: 0.251605
+blueOnLeft: 0
+ Ground Steering Request: 0.208425
+Received left sensor voltage: 0.0347253
+Received right sensor voltage: 0.0123077
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 47.4735 x: 469 y: 320 ratio: 0.355094
+i: 0 height: 23.414 x: 75 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.128382
+Number of cones: 4
+i: 0 height: 65.2953 x: 39 y: 335 ratio: 0.404442
+i: 1 height: 25.1962 x: 234 y: 291 ratio: 0.266095
+i: 0 height: 26.9784 x: 499 y: 291 ratio: 0.266095
+i: 1 height: 19.8496 x: 473 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: -0.0496095
+Number of cones: 3
+i: 0 height: 51.9289 x: 509 y: 322 ratio: 0.361543
+i: 1 height: 31.4338 x: 331 y: 293 ratio: 0.271962
+i: 2 height: 21.1863 x: 216 y: 285 ratio: 0.248737
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Number of cones: 2
+i: 0 height: 38.5625 x: 107 y: 301 ratio: 0.29583
+i: 1 height: 26.5328 x: 261 y: 293 ratio: 0.271962
+blueOnLeft: 1
+ Ground Steering Request: -0.111731
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00527472
+Received right sensor voltage: 0.010989
+Received right sensor voltage: 0.00967033
+Number of cones: 2
+i: 0 height: 36.7804 x: 381 y: 302 ratio: 0.298859
+i: 1 height: 22.9684 x: 265 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.107333
+Received left sensor voltage: 0.0237363
+Received left sensor voltage: 0.00659341
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 7.38483
+Number of cones: 4
+i: 0 height: 44.8002 x: 43 y: 308 ratio: 0.317242
+i: 1 height: 28.315 x: 230 y: 292 ratio: 0.269024
+i: 2 height: 22.0773 x: 386 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.148488
+Received left sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 60.3943 x: 566 y: 333 ratio: 0.397732
+i: 1 height: 34.9982 x: 355 y: 295 ratio: 0.277869
+i: 2 height: 22.5229 x: 234 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.203059
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 59.9488 x: 531 y: 349 ratio: 0.45254
+i: 0 height: 24.3051 x: 71 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.0524428
+Number of cones: 4
+i: 0 height: 75.0973 x: 0 y: 349 ratio: 0.45254
+i: 1 height: 26.5328 x: 224 y: 295 ratio: 0.277869
+i: 0 height: 28.7605 x: 503 y: 293 ratio: 0.271962
+i: 1 height: 20.7407 x: 473 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.0510734
+Received right sensor voltage: 0.00571429
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.0426374
+Number of cones: 2
+i: 0 height: 42.1269 x: 432 y: 309 ratio: 0.320341
+i: 1 height: 25.6417 x: 295 y: 290 ratio: 0.263177
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received right sensor voltage: 0.032967
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.0650549
+Received left sensor voltage: 0.0149451
+Number of cones: 3
+i: 0 height: 28.7605 x: 214 y: 295 ratio: 0.277869
+i: 0 height: 30.5427 x: 507 y: 295 ratio: 0.277869
+i: 1 height: 21.6318 x: 475 y: 279 ratio: 0.23174
+blueOnLeft: 1
+ Ground Steering Request: -0.0711647
+Number of cones: 0
+blueOnLeft: 0
+ Ground Steering Request: 0.110198
+Received right sensor voltage: 0.00527472
+Number of cones: 3
+i: 0 height: 69.3052 x: 629 y: 377 ratio: 0.554642
+i: 1 height: 36.7804 x: 378 y: 299 ratio: 0.289803
+i: 2 height: 24.3051 x: 249 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.173498
+Number of cones: 4
+i: 0 height: 48.8101 x: 0 y: 314 ratio: 0.335987
+i: 1 height: 31.4338 x: 205 y: 292 ratio: 0.269024
+i: 2 height: 23.8595 x: 377 y: 287 ratio: 0.254483
+blueOnLeft: 1
+ Ground Steering Request: -0.103605
+Received left sensor voltage: 0.141099
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00967033
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 49.2557 x: 500 y: 321 ratio: 0.358313
+i: 1 height: 29.6516 x: 330 y: 297 ratio: 0.283816
+blueOnLeft: 0
+ Ground Steering Request: 0.0927477
+Received left sensor voltage: 0.0158242
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.0347253
+Received right sensor voltage: 0.021978
+Number of cones: 2
+i: 0 height: 40.7903 x: 403 y: 305 ratio: 0.308005
+i: 1 height: 25.1962 x: 265 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0970446
+Number of cones: 1
+i: 0 height: 28.7605 x: 216 y: 303 ratio: 0.301898
+blueOnLeft: 0
+ Ground Steering Request: -0.0875576
+Received left sensor voltage: 0.00615385
+Number of cones: 3
+i: 0 height: 30.9883 x: 203 y: 298 ratio: 0.286804
+i: 0 height: 33.216 x: 513 y: 297 ratio: 0.283816
+i: 1 height: 23.414 x: 477 y: 281 ratio: 0.237365
+blueOnLeft: 1
+ Ground Steering Request: -0.058571
+Number of cones: 3
+i: 0 height: 36.3348 x: 182 y: 297 ratio: 0.283816
+i: 1 height: 26.0873 x: 374 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received right sensor voltage: 0.0193407
+Number of cones: 3
+i: 0 height: 62.622 x: 595 y: 337 ratio: 0.411193
+i: 1 height: 34.9982 x: 367 y: 297 ratio: 0.283816
+i: 2 height: 22.5229 x: 248 y: 287 ratio: 0.254483
+blueOnLeft: 0
+ Ground Steering Request: 0.190418
+Received right sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received right sensor voltage: 0.00615385
+Received right sensor voltage: 0.00659341
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Received left sensor voltage: 0.00571429
+Number of cones: 2
+i: 0 height: 38.5625 x: 430 y: 305 ratio: 0.308005
+i: 1 height: 25.6417 x: 283 y: 292 ratio: 0.269024
+blueOnLeft: 0
+ Ground Steering Request: 0.0976163
+Number of cones: 3
+i: 0 height: 32.3249 x: 195 y: 300 ratio: 0.292812
+i: 0 height: 34.1071 x: 521 y: 299 ratio: 0.289803
+i: 1 height: 24.3051 x: 481 y: 285 ratio: 0.248737
+blueOnLeft: 1
+ Ground Steering Request: -0.0621585
+Number of cones: 2
+i: 0 height: 35.8893 x: 565 y: 308 ratio: 0.317242
+i: 0 height: 33.216 x: 211 y: 305 ratio: 0.308005
+blueOnLeft: 0
+ Ground Steering Request: -0.175849
+Received right sensor voltage: 0.00703297
+Number of cones: 3
+i: 0 height: 36.7804 x: 160 y: 302 ratio: 0.298859
+i: 1 height: 29.2061 x: 373 y: 291 ratio: 0.266095
+i: 2 height: 25.1962 x: 524 y: 289 ratio: 0.260269
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Received left sensor voltage: 0.0158242
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 40.7903 x: 416 y: 305 ratio: 0.308005
+i: 1 height: 24.7506 x: 276 y: 289 ratio: 0.260269
+blueOnLeft: 0
+ Ground Steering Request: 0.101982
+Received right sensor voltage: 0.00527472
+Received left sensor voltage: 0.0232967
+Received right sensor voltage: 7.35099
+Received right sensor voltage: 0.0131868
+Received right sensor voltage: 0.00747253
+Received left sensor voltage: 0.00659341
+Received left sensor voltage: 0.00615385
+Received left sensor voltage: 0.0237363
+Number of cones: 3
+i: 0 height: 43.018 x: 109 y: 307 ratio: 0.314153
+i: 1 height: 31.8794 x: 358 y: 294 ratio: 0.27491
+i: 2 height: 26.9784 x: 518 y: 291 ratio: 0.266095
+blueOnLeft: 1
+ Ground Steering Request: -0.226
+Number of cones: 2
+i: 0 height: 43.9091 x: 454 y: 309 ratio: 0.320341
+i: 1 height: 27.4239 x: 297 y: 294 ratio: 0.27491
+blueOnLeft: 0
+ Ground Steering Request: 0.226
+Received left sensor voltage: 0.0171429
+Number of cones: 3
+i: 0 height: 34.9982 x: 185 y: 301 ratio: 0.29583
+i: 0 height: 36.7804 x: 531 y: 303 ratio: 0.301898
+i: 1 height: 26.0873 x: 487 y: 285 ratio: 0.248737
+blueOnLeft: 1
+ Ground Steering Request: -0.0693709
+Received right sensor voltage: 0.00615385
+Number of cones: 2
+i: 0 height: 43.018 x: 601 y: 319 ratio: 0.351884
+i: 0 height: 37.6715 x: 193 y: 307 ratio: 0.314153
+blueOnLeft: 0
+ Ground Steering Request: -0.0639358
+Received right sensor voltage: 7.44286
+Received left sensor voltage: 0.00615385
+Received right sensor voltage: 0.00879121
+Received right sensor voltage: 0.00527472
+Number of cones: 2
+i: 0 height: 44.8002 x: 471 y: 313 ratio: 0.332838
+i: 1 height: 28.315 x: 304 y: 291 ratio: 0.266095
+blueOnLeft: 0
+ Ground Steering Request: 0.0989201
+Received right sensor voltage: 0.00747253
